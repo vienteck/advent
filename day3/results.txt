@@ -1,0 +1,901 @@
+top lDDWVvlVVQfDMlW len 15
+bot jGJTRjQCgTGLCLj len 15
+Line 1 Character Q matches. Points: 43
+top ZLZpwzLBhwZhSLBs len 16
+bot jntGCtgJRjbnJgSG len 16
+Line 2 Character S matches. Points: 45
+top qppdZzzsdsmZphrNsNwZh len 21
+bot llDHLcVVDWFPvFWcWdFlv len 21
+Line 3 Character d matches. Points: 4
+top ztdhgJDBJgh len 11
+bot mQtPFQPpmbw len 11
+Line 4 Character t matches. Points: 20
+top lVlLRcnfllcfVcccGnSQVLc len 23
+bot sTPFbpwsPFspTSqmbpswpbF len 23
+Line 5 Character S matches. Points: 45
+top cCHRGcGcCRGlGrGcVGnr len 20
+bot dWHWBDzBNhhQZWWNBhJz len 20
+Line 6 Character H matches. Points: 34
+top NfnSSQpdnRSSpvWdS len 17
+bot sjZDGNDjGDwTGTjHG len 17
+Line 7 Character N matches. Points: 40
+top wlPzPqzPFbMmqPCFCJm len 19
+bot bsjbHLDDHDZjDjbGHsT len 19
+Line 8 Character b matches. Points: 2
+top gwMlgmtmPcq len 11
+bot VVvhVnvcRnn len 11
+Line 9 Character c matches. Points: 3
+top cBNBBCHhbhNhblBcCCvcB len 21
+bot HSwTwDQSqRwDQpDRsjHST len 21
+Line 10 Character H matches. Points: 34
+top dPmzMVWdmmMnnZJtZVdq len 20
+bot jTSrjTjrpQrsTTVwQRSj len 20
+Line 11 Character V matches. Points: 48
+top qzmZMmdZPtnGq len 13
+bot clblGlbGvgBFc len 13
+Line 12 Character G matches. Points: 33
+top ZfpmNDfR len 8
+bot hzbbqDnD len 8
+Line 13 Character D matches. Points: 30
+top SFtFjTTZVTFvVTjHrsVv len 20
+bot qGBJqhnSSnbJznLGJwJq len 20
+Line 14 Character S matches. Points: 45
+top TjdPPtdM len 8
+bot PPWCcZgW len 8
+Line 15 Character P matches. Points: 42
+top qsbmGCsjHNhmhmh len 15
+bot zTDznpnlQZlbWlZ len 15
+Line 16 Character b matches. Points: 2
+top LTSSfSvggVVgBgfLtvvtTS len 22
+bot czzpWnZQZnlnzpBcnWpQWc len 22
+Line 17 Character B matches. Points: 28
+top FrLvrrrVPgdPftS len 15
+bot HHdNsjTHjmGThhm len 15
+Line 18 Character d matches. Points: 4
+top wGQlMjvMwpvjvZjZTZlWjplW len 24
+bot JJTggDTgfCnntPgTJPbtPgSP len 24
+Line 19 Character T matches. Points: 46
+top qNhJmcVmdJqh len 12
+bot HnPnDNtnPDCg len 12
+Line 20 Character N matches. Points: 40
+top LrrchqhRdLVzRdmhJc len 18
+bot FFQWGGMjpGlvZzlQQv len 18
+Line 21 Character z matches. Points: 26
+top ZqZMbZMf len 8
+bot QZptpjlF len 8
+Line 22 Character Z matches. Points: 52
+top PJCggvHlwWHvSSvCJNvSPvDB len 24
+bot tFDQThFQjtRQhhFTsVThQtsF len 24
+Line 23 Character D matches. Points: 30
+top PwWCnBBCC len 9
+bot lcMMznMdG len 9
+Line 24 Character n matches. Points: 14
+top rNwwQJrJrnQswrQrRRwC len 20
+bot ShBSLndZpdnhpGFSdhBp len 20
+Line 25 Character n matches. Points: 14
+top PvzzWVzbcl len 10
+bot GFhLFGdZll len 10
+Line 26 Character l matches. Points: 12
+top VWjPWvbjcVbVcGVzjcgz len 20
+bot gwQQRRRrqwRJQwwstCRR len 20
+Line 27 Character g matches. Points: 7
+top zjBMMzznjbssrBrMBb len 18
+bot vHDmrlprlrpwGpwQDV len 18
+Line 28 Character r matches. Points: 18
+top LhRwPPTLLNRZqScPWPWPT len 21
+bot SmQvQQDGGdQHVDlmVpQGD len 21
+Line 29 Character S matches. Points: 45
+top NtfhNwhLLNwRwRNcT len 17
+bot BgnJMCBzsBFjsJfCz len 17
+Line 30 Character f matches. Points: 6
+top jZjsWNDl len 8
+bot PfClfMlM len 8
+Line 31 Character l matches. Points: 12
+top GjqbVSqjhgvgSVS len 15
+bot BCPmMmCmfpwTBfh len 15
+Line 32 Character h matches. Points: 8
+top nGbjqtqcG len 9
+bot zsLDFcJLs len 9
+Line 33 Character c matches. Points: 3
+top ZQtmZdtdQcLndRncdQQLFj len 22
+bot WWDHNPfhpnqhqsHNNDnpHs len 22
+Line 34 Character n matches. Points: 14
+top TrMBGbJTwwlm len 12
+bot DPPPWshWHfJq len 12
+Line 35 Character J matches. Points: 36
+top wmVzbrwbwvBlBlVG len 16
+bot tSVLSdFjdFtdjLVR len 16
+Line 36 Character V matches. Points: 48
+top LBhZFhRPbb len 10
+bot nPddMdPPlD len 10
+Line 37 Character P matches. Points: 42
+top NQszQNcz len 8
+bot lCSlJSsg len 8
+Line 38 Character s matches. Points: 19
+top mwmrVQwpQVWw len 12
+bot TlvBpHHHFhZj len 12
+Line 39 Character p matches. Points: 16
+top pzzDffWpQBzMpHvzMfR len 19
+bot nTNhZdrdBcnLrcdrTLZ len 19
+Line 40 Character B matches. Points: 28
+top msgJgtmbgmq len 11
+bot JJcdrGcJjGn len 11
+Line 41 Character J matches. Points: 36
+top bSVPgwntmVnng len 13
+bot QWvWSSMpMMHWH len 13
+Line 42 Character S matches. Points: 45
+top gmGMDHHdpngdrGmG len 16
+bot cwbNCCnNcbbCSLwL len 16
+Line 43 Character n matches. Points: 14
+top zQPPPffQQlVlsPFQFzQ len 19
+bot chZZbLZNVcbqbNqbZgq len 19
+Line 44 Character V matches. Points: 48
+top PRjQzfRgRfjQBTfJQTlPFR len 22
+bot HWmmvmWHGWrWvWWtjrdHpD len 22
+Line 45 Character j matches. Points: 10
+top vfrHfqrLfLwwNH len 14
+bot dvnthpnnFFpstn len 14
+Line 46 Character v matches. Points: 22
+top gWcMclgmcRcWgDMWgBgG len 20
+bot GFnntqQnGphdQhtbdFnh len 20
+Line 47 Character G matches. Points: 33
+top qRWmRDlcDqWBBP len 14
+bot wPNrZHrwSHjTfr len 14
+Line 48 Character P matches. Points: 42
+top HVVbhdCdndh len 11
+bot ZSShMzRrzSM len 11
+Line 49 Character h matches. Points: 8
+top qBjWqvtWvDJjTjjGJtJtnqBv len 24
+bot ZMrgSGZlgfSgSRrMQGQRMgMR len 24
+Line 50 Character G matches. Points: 33
+top wmwtJsvjtTJws len 13
+bot NnVsHpdnsHdds len 13
+Line 51 Character s matches. Points: 19
+top FCJNZDMPNCN len 11
+bot vzqQJHqzGqv len 11
+Line 52 Character J matches. Points: 36
+top hwjWcSTHwRpSW len 13
+bot nQtGgQgGStgQQ len 13
+Line 53 Character S matches. Points: 45
+top WpwhRHTRpcLRjwlwwTWBcWdl len 24
+bot FbCrsPrrLCMDrZCFsCDPrZPM len 24
+Line 54 Character L matches. Points: 38
+top DJjjShSGhGDSNdp len 15
+bot frWWcLFzrDWrDlF len 15
+Line 55 Character D matches. Points: 30
+top wtqZgwMBBPVMCBPQggMwqMM len 23
+bot zfLlWrWLLzsWcFzTzVTzLss len 23
+Line 56 Character V matches. Points: 48
+top tgtwQqZBQQZbBZtPg len 17
+bot bHpNJnJShcmJppSHh len 17
+Line 57 Character b matches. Points: 2
+top tHrWmrdzzdHflmHmHrSm len 20
+bot qswlqhqNgssMhGgghssn len 20
+Line 58 Character l matches. Points: 12
+top pJcCBPPQPCcPpRp len 15
+bot gwZNZBMnDhMsMBw len 15
+Line 59 Character B matches. Points: 28
+top RJCvRRVcQpjLpCJP len 16
+bot WrftWvSnrFffWbrz len 16
+Line 60 Character v matches. Points: 22
+top jzlwwzDzTlQftzlWjf len 18
+bot rBGBgVHBgpgBtPGVtP len 18
+Line 61 Character t matches. Points: 20
+top vhsshbMbNhZ len 11
+bot pgZrrrpHcZr len 11
+Line 62 Character Z matches. Points: 52
+top qhdMqqSLSSbSJMqqS len 17
+bot wwjzFzmjFQQFfHzLQ len 17
+Line 63 Character L matches. Points: 38
+top gDhHNnphPPPNCprHFhHF len 20
+bot dbdczzjNqbzjVcdbQTcc len 20
+Line 64 Character N matches. Points: 40
+top tVJWBtVVZRW len 11
+bot tjQbctjqcdj len 11
+Line 65 Character t matches. Points: 20
+top RfvlGLvLLLlLMZBmZBR len 19
+bot hHDVPnVHPHCgFCnhlpn len 19
+Line 66 Character l matches. Points: 12
+top RFhZFTZvFdjlqql len 15
+bot RNCPwSSPCNPBSwC len 15
+Line 67 Character R matches. Points: 44
+top spHGswpnW len 9
+bot gJLLJCPGg len 9
+Line 68 Character G matches. Points: 33
+top cWpDrVVbWfWbVfbs len 16
+bot dQqcQzjjzlhdwqll len 16
+Line 69 Character c matches. Points: 3
+top WWJPpQwWdQQPNpQ len 15
+bot vqlvvCblbvbvwLL len 15
+Line 70 Character w matches. Points: 23
+top cmRMBMBTbSrTDRMcGBscTG len 22
+bot fLZfvfvsCqhLlChZlLhfsC len 22
+Line 71 Character s matches. Points: 19
+top TVbzGSMGV len 9
+bot VgdpdPJpQ len 9
+Line 72 Character V matches. Points: 48
+top lwsFfsZWGsGmsnlG len 16
+bot QcPdBBdMbcPHfcCN len 16
+Line 73 Character f matches. Points: 6
+top RVvSLtSTrTVrTF len 14
+bot PcBdCHRcPHbNNb len 14
+Line 74 Character R matches. Points: 44
+top LrqzLFTLrgSJLLLtTgJjVJv len 23
+bot WlDDnjDWnWWlhlGWGhZWZhn len 23
+Line 75 Character j matches. Points: 10
+top GQJCMGbrMbbCGrrGtcwhctG len 23
+bot jNSvWpVVVRjNJqVqqBBRRJq len 23
+Line 76 Character J matches. Points: 36
+top ssnglHHsnHzFmHnzHFP len 19
+bot VDDSDRgVjvWDNpSSNpB len 19
+Line 77 Character g matches. Points: 7
+top PZfHmndFzzfPZPZf len 16
+bot CdwchwGcbwwhCdMW len 16
+Line 78 Character d matches. Points: 4
+top DRGVQGmGQVnnGVmnnF len 18
+bot pNbzCNRbRttCbpLztC len 18
+Line 79 Character R matches. Points: 44
+top qdqHBdjTqPlcTchBjJ len 18
+bot MvvvLtLCcLggLvtmgb len 18
+Line 80 Character c matches. Points: 3
+top fqhlHjdwqjjJTwld len 16
+bot DmDmrGrrWFrDGZwD len 16
+Line 81 Character w matches. Points: 23
+top wFscLVLrrVhwWgZPrcswgZW len 23
+bot FTnQdtTMnpQtjdpqdqvqQMt len 23
+Line 82 Character F matches. Points: 32
+top JRbHmmbDDSzDmDN len 15
+bot pTnBBdpMHQtqtvp len 15
+Line 83 Character H matches. Points: 34
+top JmCCbvRGzbbGJ len 13
+bot sLgZsVhgLwwGW len 13
+Line 84 Character G matches. Points: 33
+top WDQwsBzWbBl len 11
+bot MjdVpzTJVMj len 11
+Line 85 Character z matches. Points: 26
+top fncRngntnPC len 11
+bot pJgmdFpFWgm len 11
+Line 86 Character g matches. Points: 7
+top RGZPZtZCfvWSvRZGSLvPcc len 22
+bot HwsrHbwHLrwHHQQsBDbllB len 22
+Line 87 Character L matches. Points: 38
+top PlNZhwgpppccg len 13
+bot rqVvttbBfrlls len 13
+Line 88 Character l matches. Points: 12
+top CznSDDdHDRnRS len 13
+bot tVsVfDvfrtDZq len 13
+Line 89 Character D matches. Points: 30
+top QCddZFSF len 8
+bot LTmccQmw len 8
+Line 90 Character Q matches. Points: 43
+top rnwfVnclGPPFfSPS len 16
+bot qBWZvvBBWqZvqWFh len 16
+Line 91 Character F matches. Points: 32
+top zLgLQgJssspmQTJmsgjZNm len 22
+bot qqzqdHbthDdDDWHbhqBBqb len 22
+Line 92 Character z matches. Points: 26
+top QgmmjpNgCCZpjJLpmT len 18
+bot rfrSrVRPfnrClfPwnS len 18
+Line 93 Character C matches. Points: 29
+top zDzPPwvwqvPPBqjnqvDqB len 21
+bot ffSfcSNJpNVfccLLNffBR len 21
+Line 94 Character B matches. Points: 28
+top MdTMZbgbmmTWGGdmss len 18
+bot RCSNsSNVVVcJsNppsC len 18
+Line 95 Character s matches. Points: 19
+top MJghbhHhbtMMdWhbJhHgdmW len 23
+bot vnFzHDQPDjQDvHHwvQwvzwF len 23
+Line 96 Character H matches. Points: 34
+top gGbqqRDrqD len 10
+bot MdcBpVlpMG len 10
+Line 97 Character G matches. Points: 33
+top WzhPCnWfq len 9
+bot McpBnnNLZ len 9
+Line 98 Character n matches. Points: 14
+top fCqPHHJCfJhStwhWH len 17
+bot brrgvjFgbQbSbmbQs len 17
+Line 99 Character S matches. Points: 45
+top fhcchnSpfsNp len 12
+bot jVVqnqjrGHqq len 12
+Line 100 Character n matches. Points: 14
+top zzlFLlPLWdggF len 13
+bot qRBjqsrHrBTzz len 13
+Line 101 Character z matches. Points: 26
+top FDwgFLZWlbb len 11
+bot chpwshsCNcw len 11
+Line 102 Character w matches. Points: 23
+top CmPlqqRJ len 8
+bot DHRDDsFv len 8
+Line 103 Character R matches. Points: 44
+top MfSpBQQNNfBfrf len 14
+bot VZsmVVdzzrHZmH len 14
+Line 104 Character r matches. Points: 18
+top QSBSLSgmQBm len 11
+bot wPCtgClhjPP len 11
+Line 105 Character g matches. Points: 7
+top NPNsHHHNsPs len 11
+bot vHwDqgpwlqt len 11
+Line 106 Character H matches. Points: 34
+top rTRWSRrWRzgTzZrRVVLRQzj len 23
+bot pbtmmGLlGDDbDwwmtblvDvw len 23
+Line 107 Character L matches. Points: 38
+top nRzSRrjSVRrnjrgZfrfz len 20
+bot NdPdMPBfBMhJhhBcPhcJ len 20
+Line 108 Character f matches. Points: 6
+top LLhzQSDHDHNpNzHH len 16
+bot JBQBMvMBqBRJBBqw len 16
+Line 109 Character Q matches. Points: 43
+top rmbdtmlW len 8
+bot CCMnvJrn len 8
+Line 110 Character r matches. Points: 18
+top FTVdmVgtjdtbWsvjjmd len 19
+bot LSDcgHpDzShzDLPLSHh len 19
+Line 111 Character g matches. Points: 7
+top VFFJQVWHtQVHHWbJRRRH len 20
+bot wqPvpMLpLZZWLwlwMllL len 20
+Line 112 Character W matches. Points: 49
+top jsngsdGss len 9
+bot LvlqnZqZw len 9
+Line 113 Character n matches. Points: 14
+top hhmfDjDsmDNjj len 13
+bot NRNVqNVJRtQHJ len 13
+Line 114 Character N matches. Points: 40
+top jvTnffrgFTw len 11
+bot vqMzqGdMMSW len 11
+Line 115 Character v matches. Points: 22
+top sPbCtCCQQLffZ len 13
+bot GdWNLWDDzLzGM len 13
+Line 116 Character L matches. Points: 38
+top PQPBBtfZCZsmJPP len 15
+bot plwwmTwpcTcmcgj len 15
+Line 117 Character m matches. Points: 13
+top NBmBRCCsBTRNT len 13
+bot ndGdswnlwvwnw len 13
+Line 118 Character s matches. Points: 19
+top fvbqrbPLqp len 10
+bot GwScGGwbbb len 10
+Line 119 Character b matches. Points: 2
+top HJDPJFJLJtpJH len 13
+bot CvCFBBBBNNWvF len 13
+Line 120 Character F matches. Points: 32
+top HJHgNQJBS len 9
+bot lRRbJDRDb len 9
+Line 121 Character J matches. Points: 36
+top Rptsfnshs len 9
+bot cWMLMZDZp len 9
+Line 122 Character p matches. Points: 16
+top njmrnPznnsTRTtPzFzRTs len 21
+bot wgQwqvVVwBNwwvjqCHqHq len 21
+Line 123 Character j matches. Points: 10
+top CBMgBJCTNgQcsQ len 14
+bot spPpWjRrWrsWsn len 14
+Line 124 Character s matches. Points: 19
+top mwLvHLGbdHbGzSHmvmvHzr len 22
+bot hjjjPptjWGqZPPZhPRWWGP len 22
+Line 125 Character G matches. Points: 33
+top vbbrLFwL len 8
+bot FDJFDfFN len 8
+Line 126 Character F matches. Points: 32
+top TnPvZSnQgQPHnnnQvgMS len 20
+bot WppWNfWRpWfMtthMNDhN len 20
+Line 127 Character M matches. Points: 39
+top wLJmLBmGFBFdLBbCBbVCVl len 22
+bot sGsWhtHqthRRhqhtHHGqqf len 22
+Line 128 Character G matches. Points: 33
+top LmHLbCjjBLV len 11
+bot ZzZSgzQgjrc len 11
+Line 129 Character j matches. Points: 10
+top wdSwfpBhtFbStpftjSVhBwF len 23
+bot rGrsQnQgnGrQmqCPmDrmmDb len 23
+Line 130 Character b matches. Points: 2
+top zJvzLJLNZNscLzNHHL len 18
+bot rGPvGGPrDDqGgDPDgC len 18
+Line 131 Character v matches. Points: 22
+top RWsNNRMsHTHLHTlMczLHZLW len 23
+bot tpFwfpthSjFtwFhjSVplwtj len 23
+Line 132 Character l matches. Points: 12
+top QbrBDLGGRJMQJQJDbQbG len 20
+bot vNscWNnTdvnvtnLcccvl len 20
+Line 133 Character L matches. Points: 38
+top fqZgpVPZHPmfgPPjBFg len 19
+bot cscvNNccdddtdNvdFTs len 19
+Line 134 Character F matches. Points: 32
+top CgPpghfjjPgVmf len 14
+bot BMMCRJQQJzJBwM len 14
+Line 135 Character C matches. Points: 29
+top jLWDqLdWdwL len 11
+bot fHwJwzSSfwS len 11
+Line 136 Character w matches. Points: 23
+top gCgRRltMrlrCcCMzcB len 18
+bot SVfZQfVNZNVSBVNNNh len 18
+Line 137 Character B matches. Points: 28
+top gMrcPntccGgzgTMlMPrt len 20
+bot DWFvLqqdLnDsmLLFFqvp len 20
+Line 138 Character n matches. Points: 14
+top ttHJNccRRwmnsnHnH len 17
+bot WMSwqfgvgfwSQZfQf len 17
+Line 139 Character w matches. Points: 23
+top ShpLhhzTP len 9
+bot BMpQqQgvM len 9
+Line 140 Character p matches. Points: 16
+top zhbFjVdrjFjVljrVbdPddSTP len 24
+bot HNssHnHlRNCHtRtsctJtGsRJ len 24
+Line 141 Character l matches. Points: 12
+top zMVTscVh len 8
+bot QhGGhClv len 8
+Line 142 Character h matches. Points: 8
+top LfMJmgSBpLRfHmBPgpmJPSB len 23
+bot dvQNtlHvrHvNNtNNNClGdGN len 23
+Line 143 Character H matches. Points: 34
+top JFJmmSFFbFFbRJPBgFPmSBPM len 24
+bot zzWWTDjjTsTqqwjVWbjjVVsZ len 24
+Line 144 Character b matches. Points: 2
+top HZpCnwnggf len 10
+bot FggbgLDcTb len 10
+Line 145 Character g matches. Points: 7
+top SjvWjGzNGGzRjSG len 15
+bot mMcLhvhMhFMCcmv len 15
+Line 146 Character v matches. Points: 22
+top rjrVJNjVrzVN len 12
+bot PrwtPwPCHBPB len 12
+Line 147 Character r matches. Points: 18
+top SWwFbTzsSjPzpjFbsWPTWTcW len 24
+bot LCLgLgLBZjGVDjCVBBgCBGCZ len 24
+Line 148 Character j matches. Points: 10
+top lrJJttQcHqrHr len 13
+bot vggHVBgBLffBC len 13
+Line 149 Character H matches. Points: 34
+top lnhhcqNRJ len 9
+bot WzhTdsWFz len 9
+Line 150 Character h matches. Points: 8
+top vzldvzlcl len 9
+bot bFjFvmtjZ len 9
+Line 151 Character v matches. Points: 22
+top DDNMNStMsSsGnhSM len 16
+bot wQjTQVgVbwMbVTTQ len 16
+Line 152 Character M matches. Points: 39
+top DsDSCNNGpLtsNLpnNsqLppD len 23
+bot zCBcdJHBzllcJfzJBPBdBlR len 23
+Line 153 Character C matches. Points: 29
+top qWNfDvffbJBFDpNfmpb len 19
+bot whGhwjLgTrGwhbGGwrj len 19
+Line 154 Character b matches. Points: 2
+top ZctMVCcVVQt len 11
+bot TpthlnLtppw len 11
+Line 155 Character t matches. Points: 20
+top QMcRSPMZcpCZ len 12
+bot qDFNRFHNJFFF len 12
+Line 156 Character R matches. Points: 44
+top RmztpGSssNMzJRp len 15
+bot CvqsCrqdHCBlBdw len 15
+Line 157 Character s matches. Points: 19
+top gffPFDcqVbgqWgj len 15
+bot lPlwCCrdBdllnBH len 15
+Line 158 Character P matches. Points: 42
+top cFFZcbcqfQhgbc len 14
+bot NJZRSMRtmNJptS len 14
+Line 159 Character Z matches. Points: 52
+top PZthPBWlPNPSPt len 14
+bot mHHggFGgBJJbwg len 14
+Line 160 Character B matches. Points: 28
+top qqzDvLLrfDpvvDLzqvnLzqpz len 24
+bot brCRGJRHwFCmHRwGwgwbbRCj len 24
+Line 161 Character r matches. Points: 18
+top nnpnMfpMLTVqf len 13
+bot mthmsMNSScMhS len 13
+Line 162 Character M matches. Points: 39
+top dflvbdvpfffzpnNLNbWqtblq len 24
+bot HjmVhVRhHrwrwrswhHnjsmwh len 24
+Line 163 Character n matches. Points: 14
+top gSGMdMcJBgMTGPSPD len 17
+bot VZhHhHZmDZhrwwjVm len 17
+Line 164 Character D matches. Points: 30
+top CPJQGBGGPcSTFcTCScF len 19
+bot tLLdWvptWLbNpNzvWQL len 19
+Line 165 Character Q matches. Points: 43
+top WThqhvvRDJDRhw len 14
+bot crscNDNFgDHNct len 14
+Line 166 Character D matches. Points: 30
+top fnrZVnfVjrSGGLzZbnLzZLjV len 24
+bot HstHHHQtgQbPpPcpHsscsFpN len 24
+Line 167 Character b matches. Points: 2
+top SVjZSzZdndVCdSSZm len 17
+bot TRvMWBRWvvWlrvmhJ len 17
+Line 168 Character m matches. Points: 13
+top BcllhPPmMMBPcbR len 15
+bot wgQtgHHgtmwgzmt len 15
+Line 169 Character m matches. Points: 13
+top rpLqbrbTnNvqjLqLNqrNLv len 22
+bot HzDtwpDCzFwggttFFHCQFQ len 22
+Line 170 Character p matches. Points: 16
+top LrrrNLqjZSTsZZsvjbLj len 20
+bot PhcBBlBsBcGPPcPlPVGP len 20
+Line 171 Character s matches. Points: 19
+top HHhrggvS len 8
+bot HDtCDsfF len 8
+Line 172 Character H matches. Points: 34
+top ZMpLblppNZBDBwLzLLpM len 20
+bot ssCntfWdCFCnfCCtRNtq len 20
+Line 173 Character N matches. Points: 40
+top lbmJlzzLMPMmlBz len 15
+bot hSJVccSJhTvSTDh len 15
+Line 174 Character J matches. Points: 36
+top sdjBBFqHscFnH len 13
+bot TzCnRSnzgVTlC len 13
+Line 175 Character n matches. Points: 14
+top LpWWtvZfrpbLpZpWftprL len 21
+bot CCNMzCZMmmzTNNTmSSVSM len 21
+Line 176 Character Z matches. Points: 52
+top pLVtrtbGvpbpGLfP len 16
+bot ddHBscBQJJGcwsQq len 16
+Line 177 Character G matches. Points: 33
+top hLcLnVVcfQBLZPVZnThfVV len 22
+bot mjqjHNjgvNfdvpNdrrvvfp len 22
+Line 178 Character f matches. Points: 6
+top lbRlWFHJtG len 10
+bot NGpqmrqrCN len 10
+Line 179 Character G matches. Points: 33
+top DzRRDFsbDtFtDJtWRztzJ len 21
+bot ZVBQMhTsLhQZMZHVLcLcP len 21
+Line 180 Character s matches. Points: 19
+top WgbdmgMmW len 9
+bot DDvcPcpbz len 9
+Line 181 Character b matches. Points: 2
+top jffpllHSpHRptRRGRntS len 20
+bot VwvLSCCJDzcCcDLvCzPP len 20
+Line 182 Character S matches. Points: 45
+top tRFrnlGfZr len 10
+bot QpBpgQQsgF len 10
+Line 183 Character F matches. Points: 32
+top TpbBZbCCHCGZNHbzG len 17
+bot qgFdNlcFSdNlStSqg len 17
+Line 184 Character N matches. Points: 40
+top wvWnWwLCPjJPJh len 14
+bot MWtWdMfFSMgcdM len 14
+Line 185 Character W matches. Points: 49
+top hhmvmJrJLJJJPvvhDjsw len 20
+bot CRGHHrHzBBHGVRQBzRRQ len 20
+Line 186 Character r matches. Points: 18
+top zChCSBbpS len 9
+bot sQscDHHQh len 9
+Line 187 Character h matches. Points: 8
+top LNJJRgGltJ len 10
+bot DvfcrfgHfZ len 10
+Line 188 Character g matches. Points: 7
+top lJNRGlLnNJtTGVMl len 16
+bot FTbwSWqjBbzWWHSW len 16
+Line 189 Character T matches. Points: 46
+top NDTJQDVwCTCJhVGDL len 17
+bot fbBbBfbGqbfHBfBHb len 17
+Line 190 Character G matches. Points: 33
+top lMgMrggMrmmtzMcgWdlmMl len 22
+bot bsRjSRBsTRBWsSHSBTHRBj len 22
+Line 191 Character W matches. Points: 49
+top cMPlgztzrPMznnMPpgddgdz len 23
+bot pwDDNNwhNFCTwNZQFLTVTwV len 23
+Line 192 Character p matches. Points: 16
+top ZgshQgzQn len 9
+bot nwMtDwBwv len 9
+Line 193 Character n matches. Points: 14
+top SFWFlFZRRcmlWmWR len 16
+bot BCDwvwwftBtLmfLf len 16
+Line 194 Character m matches. Points: 13
+top PjRFdTdWGddrGlPjc len 17
+bot sJZpJzTqhzQJzNHhz len 17
+Line 195 Character T matches. Points: 46
+top PgHQgddszgd len 11
+bot GPWpMjljMcj len 11
+Line 196 Character P matches. Points: 42
+top bSqTqnZLnDJSmnmZm len 17
+bot tllGsnVtnWjGGWtjl len 17
+Line 197 Character n matches. Points: 14
+top fqSLDbRSfB len 10
+bot dHsRwsFdHd len 10
+Line 198 Character R matches. Points: 44
+top RwHWZpCWhHvwvHC len 15
+bot BMBpJMJGPJJnJgc len 15
+Line 199 Character p matches. Points: 16
+top lztljTFljRR len 11
+bot BBzBnBMnJMS len 11
+Line 200 Character z matches. Points: 26
+top QbRljFtQfljbbFqNF len 17
+bot rdZVrZfdCCwVwvddH len 17
+Line 201 Character f matches. Points: 6
+top sHzztVzLTgnssPggHHsnCtz len 23
+bot BmfBMrMccBBmqmrBqBCRqMf len 23
+Line 202 Character C matches. Points: 29
+top ZhDQJhFD len 8
+bot qjmSMrRF len 8
+Line 203 Character F matches. Points: 32
+top dZpwDhNhhZpQJdDQp len 17
+bot wnsGttGwLtRRTLRts len 17
+Line 204 Character w matches. Points: 23
+top QJNhClVgPTTtPNCJJCtJhlNP len 24
+bot ZZRVZfvfzZzmvvzvsmZsvmzR len 24
+Line 205 Character V matches. Points: 48
+top blBWBpdbLBDqBp len 14
+bot szzffRsvdzjvvd len 14
+Line 206 Character d matches. Points: 4
+top BLWpqBbqnDHqBbGlnWGB len 20
+bot PcPJcHTTPrhtgNtCtgPc len 20
+Line 207 Character H matches. Points: 34
+top jWVJqVwgsJc len 11
+bot HCVlQVVQNBp len 11
+Line 208 Character V matches. Points: 48
+top vGhGhTPtS len 9
+bot SNCddSBCH len 9
+Line 209 Character S matches. Points: 45
+top ZCCDtbDft len 9
+bot ZsqrrcnWW len 9
+Line 210 Character Z matches. Points: 52
+top hJThjThhVzVT len 12
+bot ZZwnNZRdgmzt len 12
+Line 211 Character z matches. Points: 26
+top lrbSSddsrbPQps len 14
+bot vNtgPRmtHmvtnR len 14
+Line 212 Character P matches. Points: 42
+top GQrspWdSGbDcs len 13
+bot FFLBhCGVBjhjj len 13
+Line 213 Character G matches. Points: 33
+top rHdlHdZDlTcflcNfcrCgcT len 22
+bot WWpWQFsRWsFjRCsCjWCmhF len 22
+Line 214 Character C matches. Points: 29
+top BnqbvQPLGLBPwq len 14
+bot GmsVshsSWShGms len 14
+Line 215 Character G matches. Points: 33
+top PzzPPQJPMJtJbbznPn len 18
+bot DdrHlNldDNltrgtfDg len 18
+Line 216 Character t matches. Points: 20
+top SmmMQhPSlmTwPpmnpllMSMP len 23
+bot rccFDqFrDFGgqrDcCwfDgwq len 23
+Line 217 Character w matches. Points: 23
+top bVdLLNvdQWVbJbQLV len 17
+bot GfGDGfDgrFrqgqJgg len 17
+Line 218 Character J matches. Points: 36
+top vjjWsbQdBssz len 12
+bot hsHlhhPPSHsM len 12
+Line 219 Character s matches. Points: 19
+top PqzJqNzsJgsgNqPdLJPPP len 21
+bot NVpMMVWGlFWNFGMpWppGF len 21
+Line 220 Character N matches. Points: 40
+top ZnZBjttQZcQZRTQDjQ len 18
+bot wGFlWMlGdGWVrWWlGn len 18
+Line 221 Character n matches. Points: 14
+top ZRDBRSZDSdS len 11
+bot LsqJHfSbzzL len 11
+Line 222 Character S matches. Points: 45
+top rljJqtZlJql len 11
+bot JcvBNJBNQfQ len 11
+Line 223 Character J matches. Points: 36
+top TVMWznvPMTFWznwPFFvw len 20
+bot FbbBNBgbcNpQdNcBFQpb len 20
+Line 224 Character F matches. Points: 32
+top mDnLWsPLvLMnnnmTzLzV len 20
+bot CtlRRtjSljCZhDlhtqSq len 20
+Line 225 Character D matches. Points: 30
+top fgWMHClGMWfgRWWWGCfmfgCS len 24
+bot VQNTDFHTtddVQQDZNLDZtVVL len 24
+Line 226 Character H matches. Points: 34
+top wSqbsvzpwpbp len 12
+bot dFTNLQwLNTFN len 12
+Line 227 Character w matches. Points: 23
+top zscjPnPqs len 9
+bot JlmPJCJSC len 9
+Line 228 Character P matches. Points: 42
+top GZSwQjGwGrCGwrTjdCTwdT len 22
+bot BpqqlmNmVpNrNvplJqNNpl len 22
+Line 229 Character r matches. Points: 18
+top zMfJnDcbRRDRFbzDFR len 18
+bot LFBtqNmqqtNBmNBvNm len 18
+Line 230 Character F matches. Points: 32
+top sHcJRRHzzf len 10
+bot QTjjCjQjCH len 10
+Line 231 Character H matches. Points: 34
+top wJCVVbJgCLCwGsMbbGTls len 21
+bot RWHsztZPZWtPrPrWrHzrz len 21
+Line 232 Character s matches. Points: 19
+top DBqdvfqDBqF len 11
+bot pWZFrtppZJp len 11
+Line 233 Character F matches. Points: 32
+top djqNfQcjDQj len 11
+bot MgbbwLjlJGn len 11
+Line 234 Character j matches. Points: 10
+top TSwfZMfpQw len 10
+bot cCCCCrbbCZ len 10
+Line 235 Character Z matches. Points: 52
+top PLJmGJnjq len 9
+bot jrsCjMMVj len 9
+Line 236 Character j matches. Points: 10
+top LnNNLLLnFFWmLFMGNMD len 19
+bot gfRpDQSfwSfgQzBHwTS len 19
+Line 237 Character D matches. Points: 30
+top CdjNCMmdCrVmCjJdVjFNMtM len 23
+bot zhWwpGbpBhPZZZDbGPpDhpr len 23
+Line 238 Character r matches. Points: 18
+top QSfHzlvgTQffSSHHclgfHnq len 23
+bot PbPPPppBhpWDhwWvPhvbwwh len 23
+Line 239 Character v matches. Points: 22
+top cQfQRgQnQsnsQSgHRQ len 18
+bot JsCFMsCjLzJJFjCdNC len 18
+Line 240 Character s matches. Points: 19
+top ltLlJttmQ len 9
+bot dfVRhNmhB len 9
+Line 241 Character m matches. Points: 13
+top gWWDrPSvCSWgMMM len 15
+bot ZBVBdTQPQZNZVPR len 15
+Line 242 Character P matches. Points: 42
+top vCbwQzcQrCr len 11
+bot LFHwJpHHGpp len 11
+Line 243 Character w matches. Points: 23
+top VbRVvVHRbJ len 10
+bot VTzVLBVPtt len 10
+Line 244 Character V matches. Points: 48
+top cSdgSZSZZFhnFcFwdDQcZZhg len 24
+bot zpTlzLDzlWTvBWLztBtpLplT len 24
+Line 245 Character D matches. Points: 30
+top hZZvdrcSZQZSSwncd len 17
+bot HCqHmGHqJrCJqbNbq len 17
+Line 246 Character r matches. Points: 18
+top lwWmsQlD len 8
+bot bCZbVWZq len 8
+Line 247 Character W matches. Points: 49
+top rRShhhhPjTsjTRvHh len 17
+bot qfzqfqvBZZvBCZffC len 17
+Line 248 Character v matches. Points: 22
+top scPThhRSj len 9
+bot QmmNpplcg len 9
+Line 249 Character c matches. Points: 3
+top FChtDTThDqZ len 11
+bot tjppjvgNvjl len 11
+Line 250 Character t matches. Points: 20
+top LBwsVdVHLV len 10
+bot vvpVGjjgjS len 10
+Line 251 Character V matches. Points: 48
+top BbHLBfRcsHcBdMbdW len 17
+bot JQPWFCQCZZhWrJPQp len 17
+Line 252 Character W matches. Points: 49
+top zMtWCstzNrQ len 11
+bot LpbplFwQwhb len 11
+Line 253 Character Q matches. Points: 43
+top gDTDHGvvHVfVdGZVJGDGd len 21
+bot nmbwmWFwfhpbnfjwwjpLl len 21
+Line 254 Character f matches. Points: 6
+top GJcHVJdvZJVGZWHSSvTZ len 20
+bot MCzrzzRNSBtBNPBMqNBB len 20
+Line 255 Character S matches. Points: 45
+top pLzZVVGGZmZV len 12
+bot lmDsQglgsllc len 12
+Line 256 Character m matches. Points: 13
+top WSvrjRjrMMFFnFjnrnrdjBRR len 24
+bot gdsblQQPbpggsclNDDbPstDs len 24
+Line 257 Character d matches. Points: 4
+top SMWRBrrrvSRBSSvWWWBTMT len 22
+bot CqpZzLCCTCwJZwwzGZzqHL len 22
+Line 258 Character T matches. Points: 46
+top TvfGwGZpP len 9
+bot nSNgSSnGh len 9
+Line 259 Character G matches. Points: 33
+top srLVHLcjsjVtHqjjrjFjcC len 22
+bot qPBggqNQQnMqhgngnznNNB len 22
+Line 260 Character q matches. Points: 17
+top VtdmPHLmtVHFLdm len 15
+bot ZWRJlWpWWWlmWfp len 15
+Line 261 Character m matches. Points: 13
+top SbSbdTsrVrdhfSd len 15
+bot DGJWGmNwWWPwTGP len 15
+Line 262 Character T matches. Points: 46
+top BqlRpBMmllpmnpv len 15
+bot vDJPZWPJwZcJgDD len 15
+Line 263 Character v matches. Points: 22
+top FFRMCnRFtCMRlMplqMBRBpp len 23
+bot VbtzdrdhssrmHzVVSsVhVHz len 23
+Line 264 Character t matches. Points: 20
+top dNrhhLsrs len 9
+bot hSmmRcPhm len 9
+Line 265 Character h matches. Points: 8
+top WMCngCzCvzvMMpplQvzWl len 21
+bot RBPcVStSmTSQbbVSPQmwm len 21
+Line 266 Character Q matches. Points: 43
+top MpzvWnllglJfqfMg len 16
+bot sNdZHqNjdDsPHqqZ len 16
+Line 267 Character q matches. Points: 17
+top rNvGZRsRc len 9
+bot RRBtBCttB len 9
+Line 268 Character R matches. Points: 44
+top DwPPQWnWWnPQnJlP len 16
+bot hmTtBFBmqzhpmnFh len 16
+Line 269 Character n matches. Points: 14
+top QwQQQlbPPMWwDdDwlVDJJPPd len 24
+bot vdSjrjdrsgssLLsZLNBrNNNr len 24
+Line 270 Character d matches. Points: 4
+top VjMMVzngnjQQf len 13
+bot JDchZqGNqFPcg len 13
+Line 271 Character g matches. Points: 7
+top SWBwTtWSFTHwFClHHmwB len 20
+bot PcJJDhNGPJNPPhPPGhJt len 20
+Line 272 Character t matches. Points: 20
+top CBvSBBBWHdmRTvRW len 16
+bot RQFLQRnjnfLLzVbs len 16
+Line 273 Character R matches. Points: 44
+top flSpvLlmZpCpZmVSBtlv len 20
+bot HHjFHTdssZdjHFdTWdNh len 20
+Line 274 Character Z matches. Points: 52
+top RmQMQJRQJQmPgrzJrPcRQRJc len 24
+bot WdNTGTGGFhGTdFhHThHGMTsF len 24
+Line 275 Character M matches. Points: 39
+top RzJrqqcqPRqqJDDq len 16
+bot ttCpmtlwBpDflSLt len 16
+Line 276 Character D matches. Points: 30
+top hBjPZbPBbW len 10
+bot vTRnLRWntD len 10
+Line 277 Character W matches. Points: 49
+top MNGQNsQwfzsdGfgTGfzQwwff len 24
+bot mnCRDVmJLRLCvnvLDvJCDgRL len 24
+Line 278 Character g matches. Points: 7
+top wTTdFldNHzTMl len 13
+bot jjFqphrBqhrZb len 13
+Line 279 Character F matches. Points: 32
+top wDcMCbZbzPDcZDW len 15
+bot QdrJLrQrZBLRBQr len 15
+Line 280 Character Z matches. Points: 52
+top FFSHStjtHgllgFdSNmlfFSt len 23
+bot BqRRssRsRJrLrjrrJBRVhLJ len 23
+Line 281 Character j matches. Points: 10
+top fGggtfHtg len 9
+bot WMwbCGdCT len 9
+Line 282 Character G matches. Points: 33
+top RQrQDDbVGrRSfbVbGtmGt len 21
+bot wHFWsCCzsJSJJHsJPJvWC len 21
+Line 283 Character S matches. Points: 45
+top hphQnhZQNjlBBcMMp len 17
+bot CsHwFjvvHWHWsFvjC len 17
+Line 284 Character j matches. Points: 10
+top ppcnnBZqllTQ len 12
+bot fmrffbtGTDGt len 12
+Line 285 Character T matches. Points: 46
+top dsDFsBZBhCFhshFrpBFn len 20
+bot mLQmHmRgRbLqmmmRQDLm len 20
+Line 286 Character D matches. Points: 30
+top PPBBNNNtGTwJNfTJffNttf len 22
+bot LQgqLgHvHbqRwlgmblRvll len 22
+Line 287 Character w matches. Points: 23
+top NSNTGTJTWPjGWMPSJJ len 18
+bot zrBSpzdFSddCFdncrs len 18
+Line 288 Character S matches. Points: 45
+top bPzRlMPTzTMldJM len 15
+bot nhswcjzfQVccQhc len 15
+Line 289 Character z matches. Points: 26
+top HCCqNmNm len 8
+bot QQmQssJn len 8
+Line 290 Character m matches. Points: 13
+top pHptprtg len 8
+bot RStTtMJt len 8
+Line 291 Character t matches. Points: 20
+top nTmhrsPMsT len 10
+bot fmHHGcSgtj len 10
+Line 292 Character m matches. Points: 13
+top bJJwdlrJQLlvwlQDDw len 18
+bot SbgffGVNjfgjNtVbcf len 18
+Line 293 Character b matches. Points: 2
+top QlpDQFJdvdFqJdFpLvDFpLL len 23
+bot nzZMnBMRRzMTqnrzqTRPznz len 23
+Line 294 Character q matches. Points: 17
+top qRVRqBzgwqRpqRgVqQRPpQ len 22
+bot JJPrPhPGJnsGrCFdFJrZdG len 22
+Line 295 Character P matches. Points: 42
+top ZvWDmMvmS len 9
+bot vCndssrsJ len 9
+Line 296 Character v matches. Points: 22
+top WcZcNWlcMj len 10
+bot BQpzNTqVBp len 10
+Line 297 Character N matches. Points: 40
+top DpLPZLDDlcgmDm len 14
+bot hVgfgfWWRwhwwt len 14
+Line 298 Character g matches. Points: 7
+top VrVMdbCrrBTjC len 13
+bot MQQtMwQNSqMQW len 13
+Line 299 Character M matches. Points: 39
+top VCBHdJHdvrrFsbsdrBJTdT len 22
+bot zZcpmZGDGPlmzmlccFDZDn len 22
+Line 300 Character F matches. Points: 32
+7967
