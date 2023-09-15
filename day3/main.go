@@ -28,32 +28,50 @@ func main() {
 
 	scanner := bufio.NewScanner(file)
 	sumofprios := 0
+	sumofgroups := 0
 	line := 0
+	rs := 0
+	groupcheck := make(map[string]int)
 	for scanner.Scan() {
+		if rs < 3 {
+			rs++
+		} else {
+			groupcheck = make(map[string]int)
+			rs = 1
+		}
 		line++
 		row := scanner.Text()
-		mid := len(row) / 2
-		lower := row[:mid]
-		upper := row[mid:]
 		mapper := make(map[string]int)
-		for x := range lower {
-			mapper[string(lower[x])] = 1
-		}
-		fmt.Printf("top %v len %v\nbot %v len %v\n", lower, len(lower), upper, len(upper))
-		for x := range upper {
-			if mapper[string(upper[x])] == 1 {
-				fmt.Printf(
-					"Line %v Character %v matches. Points: %v\n",
-					line,
-					string(upper[x]),
-					charPriority[string(upper[x])],
-				)
+		//O(n)
+		for i := 0; i < len(row); i++ {
+			if rs == 1 {
+				groupcheck[string(row[i])] = rs
+			} else {
+				val, ok := groupcheck[string(row[i])]
+				if ok && val == 2 && rs == 3 {
+					sumofgroups += charPriority[string(row[i])]
+				}
+				if ok {
+					groupcheck[string(row[i])] = rs
+				}
+			}
 
-				mapper[string(upper[x])] += 1
-				sumofprios += charPriority[string(upper[x])]
+			if i < len(row)/2 {
+				mapper[string(row[i])] = 1
+			} else {
+				if mapper[string(row[i])] == 1 {
+					fmt.Printf(
+						"Line %v Character %v matches. Points: %v\n",
+						line,
+						string(row[i]),
+						charPriority[string(row[i])],
+					)
+
+					mapper[string(row[i])] += 1
+					sumofprios += charPriority[string(row[i])]
+				}
 			}
 		}
-
 	}
 
 	fmt.Print(sumofprios)
