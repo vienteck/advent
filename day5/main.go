@@ -26,7 +26,7 @@ func main() {
 			row--
 		}
 		if line > 10 {
-
+			//load instructions
 			instructions = append(instructions, getinstructions(scanner.Text()))
 		}
 		line++
@@ -54,12 +54,16 @@ func processStep(instructions [3]int, grid *[9][80]string, lastemptycell *[9]int
 	log.Print(temp)
 	//update lastemptycell array
 	lastemptycell[movefrom] = lastemptycell[movefrom] - instructions[0]
+	//below code is for step 1
 	//move cells to requested column
-	for i := len(temp) - 1; i >= 0; i-- {
+	// for i := len(temp) - 1; i >= 0; i-- {
+	// 	(*grid)[moveto][lastemptycell[moveto]] = temp[i]
+	// 	lastemptycell[moveto]++
+	// }
+	for i := 0; i < len(temp); i++ {
 		(*grid)[moveto][lastemptycell[moveto]] = temp[i]
 		lastemptycell[moveto]++
 	}
-
 }
 func getinstructions(row string) [3]int {
 
