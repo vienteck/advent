@@ -15,30 +15,29 @@ func main() {
 	scanner.Scan()
 	ds := scanner.Text()
 	dt := map[string]int{}
-	pt := 1
-	for i := 0; i < len(ds); i++ {
-		log.Printf("Current Pointer: %v", pt)
-		log.Printf("Current character: %v", string(ds[i]))
+	pt := map[string]int{string(ds[0]): 0}
+	for i := 0; i < len(ds)-1; i++ {
 		//prep data
 		if i < 3 {
-			dt[string(ds[i])] = 1
+			dt[string(ds[i])] = i
 			continue
 		}
 		_, ok := dt[string(ds[i])]
-		if len(dt) > 3 && !ok {
-			dt[string(ds[i])] = 1
-			log.Print(dt)
-			break
-			//this should meant that we have a unique 4 characters in a row
-		}
 		if ok {
+			log.Printf("duplicated key: %v", string(ds[i]))
+			p := pt[string(ds[i])] + 1
+			delete(dt, string(ds[i]))
+			pt = map[string]int{}
+			dt[string(ds[i])] = i
+			pt[string(ds[p])] = p + 1
 			//If value already exists in our map that means we have a duplicate and our window needs to move
-			dt = map[string]int{}
-			pt = i + 2
 		} else {
-			dt[string(ds[i])] = 1
+			dt[string(ds[i])] = i
+			if len(dt) == 4 {
+				log.Printf("Marker found at position %v", i)
+				break
+			}
 		}
 
 	}
-	log.Print(ds)
 }
