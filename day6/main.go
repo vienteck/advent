@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"os"
 )
+
 //this code was copied from https://github.com/mnml/aoc/blob/main/2022/06/1.go
 
 func main() {

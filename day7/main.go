@@ -71,12 +71,19 @@ func main() {
 	}
 
 	tracker := make(map[string]int)
+	asdf := 0
 	for key, val := range sizes {
 		d := strings.Split(key, "/")
-		// fmt.Printf("%v (%v)\n", key, val)
+		fmt.Printf("%v (%v)\n", key, val)
 		for i := 0; i < len(d); i++ {
-			tracker[strings.Join(d, "/")] += val
+			asdf++
+			log.Print(asdf)
+			fmt.Println(strings.Join(d[:i], "/"))
+			tracker[strings.Join(d[:i], "/")] += val
 		}
+		// fmt.Println(strings.Join(d, "/"))
+		// tracker[strings.Join(d, "/")] += val
+
 	}
 	solution := 0
 	for key, val := range tracker {
