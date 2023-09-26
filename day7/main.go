@@ -81,11 +81,21 @@ func main() {
 	}
 
 	solution := 0
+	target := 30000000 - (70000000 - sizes[""])
+	fmt.Println(target)
+	difference := -99999999999
+	var currcandidate string
 	for key, val := range sizes {
-		fmt.Printf("%v %v\n", key, val)
+		if 0 > (target-val) && (target-val) > difference {
+			difference = target - val
+			currcandidate = key
+		}
+		// fmt.Printf("%v %v\n", key, val)
 		if val < 100000 {
 			solution += val
 		}
 	}
+	fmt.Print(difference)
+	fmt.Print(currcandidate)
 	fmt.Print(solution)
 }
