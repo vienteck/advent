@@ -19,6 +19,7 @@ func main() {
 	var pwd []string
 	var curdir string
 	cdsize := 0
+	pwd = append(pwd, "/")
 	sizes := make(map[string]int)
 	sizes["/"] = 0
 	for scanner.Scan() {
@@ -29,13 +30,21 @@ func main() {
 		}
 		//these are commands
 		if string(line[0]) == "$" {
+			fmt.Println(line)
 			if strings.Contains(line, "cd") {
 				if cdsize != 0 {
+					// v := strings.Join(pwd, "/")
 					val, pass := sizes[strings.Join(pwd, "/")]
 					if pass {
-						fmt.Printf("Value already exists in map %v", val)
+						fmt.Printf("Value already exists in map %v\n", val)
 					}
-					sizes[strings.Join(pwd, "/")] = cdsize
+
+					for i := 1; i < len(pwd)+1; i++ {
+						fmt.Printf("Adding %v to directory %v\n", cdsize, strings.Join(pwd[:i], "/"))
+						sizes[strings.Join(pwd[:i], "/")] += cdsize
+					}
+
+					// sizes[strings.Join(pwd, "/")] = cdsize
 					cdsize = 0
 				}
 
@@ -44,11 +53,12 @@ func main() {
 				} else {
 					if sep[2] == "/" {
 						pwd = []string{}
+						pwd = append([]string{}, "")
 					} else {
 						pwd = append(pwd, sep[2])
 					}
 				}
-				fmt.Println(pwd)
+				fmt.Println("dir - /" + strings.Join(pwd, "/"))
 				curdir = sep[2]
 				log.Print(curdir)
 			}
@@ -70,23 +80,8 @@ func main() {
 		cdsize = 0
 	}
 
-	tracker := make(map[string]int)
-	asdf := 0
-	for key, val := range sizes {
-		d := strings.Split(key, "/")
-		fmt.Printf("%v (%v)\n", key, val)
-		for i := 0; i < len(d); i++ {
-			asdf++
-			log.Print(asdf)
-			fmt.Println(strings.Join(d[:i], "/"))
-			tracker[strings.Join(d[:i], "/")] += val
-		}
-		// fmt.Println(strings.Join(d, "/"))
-		// tracker[strings.Join(d, "/")] += val
-
-	}
 	solution := 0
-	for key, val := range tracker {
+	for key, val := range sizes {
 		fmt.Printf("%v %v\n", key, val)
 		if val < 100000 {
 			solution += val

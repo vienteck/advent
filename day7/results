@@ -1,4 +1,6 @@
-[]
+$ cd /
+dir - /
+$ ls
      187585 dgflmqwt.srm
      dir gnpd
      200058 hbnlqs
@@ -12,7 +14,9 @@
      dir sbnhc
      dir zhfl
      136762 zwg
-[gnpd]
+$ cd gnpd
+dir - /gnpd
+$ ls
      dir dcqq
      dir dnscfz
      dir dwqbhgc
@@ -22,60 +26,141 @@
      dir sbnhc
      144703 sct
      dir smfhldss
-[gnpd dcqq]
+$ cd dcqq
+Adding 312284 to directory 
+dir - /gnpd/dcqq
+$ ls
      dir bfdng
      155230 mfhzl.bpw
      dir mhpqqq
      dir mpbpcv
      24140 mrrznmvr.mmz
-[gnpd dcqq bfdng]
+$ cd bfdng
+Adding 179370 to directory 
+Adding 179370 to directory gnpd
+dir - /gnpd/dcqq/bfdng
+$ ls
      dir hjlch
      dir sbnhc
-[gnpd dcqq bfdng hjlch]
+$ cd hjlch
+dir - /gnpd/dcqq/bfdng/hjlch
+$ ls
      239759 sct
-[gnpd dcqq bfdng]
-[gnpd dcqq bfdng sbnhc]
+$ cd ..
+Adding 239759 to directory 
+Adding 239759 to directory gnpd
+Adding 239759 to directory gnpd/dcqq
+Adding 239759 to directory gnpd/dcqq/bfdng
+dir - /gnpd/dcqq/bfdng
+$ cd sbnhc
+dir - /gnpd/dcqq/bfdng/sbnhc
+$ ls
      221334 hbnlqs
-[gnpd dcqq bfdng]
-[gnpd dcqq]
-[gnpd dcqq mhpqqq]
+$ cd ..
+Adding 221334 to directory 
+Adding 221334 to directory gnpd
+Adding 221334 to directory gnpd/dcqq
+Adding 221334 to directory gnpd/dcqq/bfdng
+dir - /gnpd/dcqq/bfdng
+$ cd ..
+dir - /gnpd/dcqq
+$ cd mhpqqq
+dir - /gnpd/dcqq/mhpqqq
+$ ls
      250305 nfqs.crt
      dir qqhz
      60892 rbq.hpj
      64587 tbzlnq
      dir tcbgmw
      dir vnlmlq
-[gnpd dcqq mhpqqq qqhz]
+$ cd qqhz
+Adding 375784 to directory 
+Adding 375784 to directory gnpd
+Adding 375784 to directory gnpd/dcqq
+dir - /gnpd/dcqq/mhpqqq/qqhz
+$ ls
      148009 sct
-[gnpd dcqq mhpqqq]
-[gnpd dcqq mhpqqq tcbgmw]
+$ cd ..
+Adding 148009 to directory 
+Adding 148009 to directory gnpd
+Adding 148009 to directory gnpd/dcqq
+Adding 148009 to directory gnpd/dcqq/mhpqqq
+dir - /gnpd/dcqq/mhpqqq
+$ cd tcbgmw
+dir - /gnpd/dcqq/mhpqqq/tcbgmw
+$ ls
      85006 sbnhc
-[gnpd dcqq mhpqqq]
-[gnpd dcqq mhpqqq vnlmlq]
+$ cd ..
+Adding 85006 to directory 
+Adding 85006 to directory gnpd
+Adding 85006 to directory gnpd/dcqq
+Adding 85006 to directory gnpd/dcqq/mhpqqq
+dir - /gnpd/dcqq/mhpqqq
+$ cd vnlmlq
+dir - /gnpd/dcqq/mhpqqq/vnlmlq
+$ ls
      21720 vsrrhvlt.qbs
-[gnpd dcqq mhpqqq]
-[gnpd dcqq]
-[gnpd dcqq mpbpcv]
+$ cd ..
+Adding 21720 to directory 
+Adding 21720 to directory gnpd
+Adding 21720 to directory gnpd/dcqq
+Adding 21720 to directory gnpd/dcqq/mhpqqq
+dir - /gnpd/dcqq/mhpqqq
+$ cd ..
+dir - /gnpd/dcqq
+$ cd mpbpcv
+dir - /gnpd/dcqq/mpbpcv
+$ ls
      146794 bdpld.ddm
-[gnpd dcqq]
-[gnpd]
-[gnpd dnscfz]
+$ cd ..
+Adding 146794 to directory 
+Adding 146794 to directory gnpd
+Adding 146794 to directory gnpd/dcqq
+dir - /gnpd/dcqq
+$ cd ..
+dir - /gnpd
+$ cd dnscfz
+dir - /gnpd/dnscfz
+$ ls
      276175 mfhzl.ndh
      248161 qjgzgm
      dir vnlmlq
      dir wwf
      dir zjdhldlq
-[gnpd dnscfz vnlmlq]
+$ cd vnlmlq
+Adding 524336 to directory 
+Adding 524336 to directory gnpd
+dir - /gnpd/dnscfz/vnlmlq
+$ ls
      130051 ftjnfc
-[gnpd dnscfz]
-[gnpd dnscfz wwf]
+$ cd ..
+Adding 130051 to directory 
+Adding 130051 to directory gnpd
+Adding 130051 to directory gnpd/dnscfz
+dir - /gnpd/dnscfz
+$ cd wwf
+dir - /gnpd/dnscfz/wwf
+$ ls
      166550 dwvphbm.jtd
-[gnpd dnscfz]
-[gnpd dnscfz zjdhldlq]
+$ cd ..
+Adding 166550 to directory 
+Adding 166550 to directory gnpd
+Adding 166550 to directory gnpd/dnscfz
+dir - /gnpd/dnscfz
+$ cd zjdhldlq
+dir - /gnpd/dnscfz/zjdhldlq
+$ ls
      345090 hbnlqs
-[gnpd dnscfz]
-[gnpd]
-[gnpd dwqbhgc]
+$ cd ..
+Adding 345090 to directory 
+Adding 345090 to directory gnpd
+Adding 345090 to directory gnpd/dnscfz
+dir - /gnpd/dnscfz
+$ cd ..
+dir - /gnpd
+$ cd dwqbhgc
+dir - /gnpd/dwqbhgc
+$ ls
      310228 dwvphbm
      157686 hbnlqs
      48014 nfqs.crt
@@ -83,24 +168,50 @@
      dir sbnhc
      139174 sct
      dir vjcl
-[gnpd dwqbhgc sbnhc]
+$ cd sbnhc
+Adding 988458 to directory 
+Adding 988458 to directory gnpd
+dir - /gnpd/dwqbhgc/sbnhc
+$ ls
      51605 bfqw.cjd
      267184 fjvmbpf
      169122 mfhzl.jrp
      243630 sbnhc
-[gnpd dwqbhgc]
-[gnpd dwqbhgc vjcl]
+$ cd ..
+Adding 731541 to directory 
+Adding 731541 to directory gnpd
+Adding 731541 to directory gnpd/dwqbhgc
+dir - /gnpd/dwqbhgc
+$ cd vjcl
+dir - /gnpd/dwqbhgc/vjcl
+$ ls
      dir mfhzl
-[gnpd dwqbhgc vjcl mfhzl]
+$ cd mfhzl
+dir - /gnpd/dwqbhgc/vjcl/mfhzl
+$ ls
      302243 dcqq.djc
-[gnpd dwqbhgc vjcl]
-[gnpd dwqbhgc]
-[gnpd]
-[gnpd lsrb]
+$ cd ..
+Adding 302243 to directory 
+Adding 302243 to directory gnpd
+Adding 302243 to directory gnpd/dwqbhgc
+Adding 302243 to directory gnpd/dwqbhgc/vjcl
+dir - /gnpd/dwqbhgc/vjcl
+$ cd ..
+dir - /gnpd/dwqbhgc
+$ cd ..
+dir - /gnpd
+$ cd lsrb
+dir - /gnpd/lsrb
+$ ls
      311814 dcqq.prd
      200118 rbq.hpj
-[gnpd]
-[gnpd pbgrdvmc]
+$ cd ..
+Adding 511932 to directory 
+Adding 511932 to directory gnpd
+dir - /gnpd
+$ cd pbgrdvmc
+dir - /gnpd/pbgrdvmc
+$ ls
      119324 cqhdvmzp.npw
      277930 jhlrpmqg
      dir jlcqmq
@@ -108,44 +219,96 @@
      dir rqmhwhc
      257084 sbnhc
      338348 vnlmlq
-[gnpd pbgrdvmc jlcqmq]
+$ cd jlcqmq
+Adding 1197111 to directory 
+Adding 1197111 to directory gnpd
+dir - /gnpd/pbgrdvmc/jlcqmq
+$ ls
      24876 mfhzl
-[gnpd pbgrdvmc]
-[gnpd pbgrdvmc rqmhwhc]
+$ cd ..
+Adding 24876 to directory 
+Adding 24876 to directory gnpd
+Adding 24876 to directory gnpd/pbgrdvmc
+dir - /gnpd/pbgrdvmc
+$ cd rqmhwhc
+dir - /gnpd/pbgrdvmc/rqmhwhc
+$ ls
      36575 dlft.dtp
-[gnpd pbgrdvmc]
-[gnpd]
-[gnpd sbnhc]
+$ cd ..
+Adding 36575 to directory 
+Adding 36575 to directory gnpd
+Adding 36575 to directory gnpd/pbgrdvmc
+dir - /gnpd/pbgrdvmc
+$ cd ..
+dir - /gnpd
+$ cd sbnhc
+dir - /gnpd/sbnhc
+$ ls
      dir sbq
      dir vmslnrmc
-[gnpd sbnhc sbq]
+$ cd sbq
+dir - /gnpd/sbnhc/sbq
+$ ls
      15689 hpzgsl.svb
-[gnpd sbnhc]
-[gnpd sbnhc vmslnrmc]
+$ cd ..
+Adding 15689 to directory 
+Adding 15689 to directory gnpd
+Adding 15689 to directory gnpd/sbnhc
+dir - /gnpd/sbnhc
+$ cd vmslnrmc
+dir - /gnpd/sbnhc/vmslnrmc
+$ ls
      dir lcqpws
      136481 nfqs.crt
      29838 sbnhc
-[gnpd sbnhc vmslnrmc lcqpws]
+$ cd lcqpws
+Adding 166319 to directory 
+Adding 166319 to directory gnpd
+Adding 166319 to directory gnpd/sbnhc
+dir - /gnpd/sbnhc/vmslnrmc/lcqpws
+$ ls
      168866 dcqq.pdp
      322264 jmtwr.fzj
      18732 sct
-[gnpd sbnhc vmslnrmc]
-[gnpd sbnhc]
-[gnpd]
-[gnpd smfhldss]
+$ cd ..
+Adding 509862 to directory 
+Adding 509862 to directory gnpd
+Adding 509862 to directory gnpd/sbnhc
+Adding 509862 to directory gnpd/sbnhc/vmslnrmc
+dir - /gnpd/sbnhc/vmslnrmc
+$ cd ..
+dir - /gnpd/sbnhc
+$ cd ..
+dir - /gnpd
+$ cd smfhldss
+dir - /gnpd/smfhldss
+$ ls
      dir wfbssqj
-[gnpd smfhldss wfbssqj]
+$ cd wfbssqj
+dir - /gnpd/smfhldss/wfbssqj
+$ ls
      134050 tgghrp.hjq
-[gnpd smfhldss]
-[gnpd]
-[]
-[jsv]
+$ cd ..
+Adding 134050 to directory 
+Adding 134050 to directory gnpd
+Adding 134050 to directory gnpd/smfhldss
+dir - /gnpd/smfhldss
+$ cd ..
+dir - /gnpd
+$ cd ..
+dir - /
+$ cd jsv
+dir - /jsv
+$ ls
      dir bwc
      dir dcqq
      260913 lzcqm.wzr
      dir rhstw
      dir vnlmlq
-[jsv bwc]
+$ cd bwc
+Adding 260913 to directory 
+dir - /jsv/bwc
+$ ls
      221975 bdv.mfq
      dir crbnzrtw
      dir dcqq
@@ -156,7 +319,11 @@
      dir nbwfdvsv
      dir qnwhfv
      dir sbnhc
-[jsv bwc crbnzrtw]
+$ cd crbnzrtw
+Adding 323221 to directory 
+Adding 323221 to directory jsv
+dir - /jsv/bwc/crbnzrtw
+$ ls
      dir dmmpcrz
      204859 dwvphbm.csz
      dir jdh
@@ -166,73 +333,190 @@
      302165 scpq.gpd
      dir shfhmdw
      dir wmjgmd
-[jsv bwc crbnzrtw dmmpcrz]
+$ cd dmmpcrz
+Adding 709384 to directory 
+Adding 709384 to directory jsv
+Adding 709384 to directory jsv/bwc
+dir - /jsv/bwc/crbnzrtw/dmmpcrz
+$ ls
      dir mfhzl
-[jsv bwc crbnzrtw dmmpcrz mfhzl]
+$ cd mfhzl
+dir - /jsv/bwc/crbnzrtw/dmmpcrz/mfhzl
+$ ls
      121861 hbnlqs
-[jsv bwc crbnzrtw dmmpcrz]
-[jsv bwc crbnzrtw]
-[jsv bwc crbnzrtw jdh]
+$ cd ..
+Adding 121861 to directory 
+Adding 121861 to directory jsv
+Adding 121861 to directory jsv/bwc
+Adding 121861 to directory jsv/bwc/crbnzrtw
+Adding 121861 to directory jsv/bwc/crbnzrtw/dmmpcrz
+dir - /jsv/bwc/crbnzrtw/dmmpcrz
+$ cd ..
+dir - /jsv/bwc/crbnzrtw
+$ cd jdh
+dir - /jsv/bwc/crbnzrtw/jdh
+$ ls
      dir dwvphbm
-[jsv bwc crbnzrtw jdh dwvphbm]
+$ cd dwvphbm
+dir - /jsv/bwc/crbnzrtw/jdh/dwvphbm
+$ ls
      8977 ntdtdq
-[jsv bwc crbnzrtw jdh]
-[jsv bwc crbnzrtw]
-[jsv bwc crbnzrtw mpgdhg]
+$ cd ..
+Adding 8977 to directory 
+Adding 8977 to directory jsv
+Adding 8977 to directory jsv/bwc
+Adding 8977 to directory jsv/bwc/crbnzrtw
+Adding 8977 to directory jsv/bwc/crbnzrtw/jdh
+dir - /jsv/bwc/crbnzrtw/jdh
+$ cd ..
+dir - /jsv/bwc/crbnzrtw
+$ cd mpgdhg
+dir - /jsv/bwc/crbnzrtw/mpgdhg
+$ ls
      48235 dcqq
-[jsv bwc crbnzrtw]
-[jsv bwc crbnzrtw sbnhc]
+$ cd ..
+Adding 48235 to directory 
+Adding 48235 to directory jsv
+Adding 48235 to directory jsv/bwc
+Adding 48235 to directory jsv/bwc/crbnzrtw
+dir - /jsv/bwc/crbnzrtw
+$ cd sbnhc
+dir - /jsv/bwc/crbnzrtw/sbnhc
+$ ls
      dir dbb
-[jsv bwc crbnzrtw sbnhc dbb]
+$ cd dbb
+dir - /jsv/bwc/crbnzrtw/sbnhc/dbb
+$ ls
      275648 gcsdd.pdw
      dir rbbgrtm
      dir rmlm
      111336 sbnhc.qrn
      153146 sct
-[jsv bwc crbnzrtw sbnhc dbb rbbgrtm]
+$ cd rbbgrtm
+Adding 540130 to directory 
+Adding 540130 to directory jsv
+Adding 540130 to directory jsv/bwc
+Adding 540130 to directory jsv/bwc/crbnzrtw
+Adding 540130 to directory jsv/bwc/crbnzrtw/sbnhc
+dir - /jsv/bwc/crbnzrtw/sbnhc/dbb/rbbgrtm
+$ ls
      304685 rbq.hpj
-[jsv bwc crbnzrtw sbnhc dbb]
-[jsv bwc crbnzrtw sbnhc dbb rmlm]
+$ cd ..
+Adding 304685 to directory 
+Adding 304685 to directory jsv
+Adding 304685 to directory jsv/bwc
+Adding 304685 to directory jsv/bwc/crbnzrtw
+Adding 304685 to directory jsv/bwc/crbnzrtw/sbnhc
+Adding 304685 to directory jsv/bwc/crbnzrtw/sbnhc/dbb
+dir - /jsv/bwc/crbnzrtw/sbnhc/dbb
+$ cd rmlm
+dir - /jsv/bwc/crbnzrtw/sbnhc/dbb/rmlm
+$ ls
      dir wfr
-[jsv bwc crbnzrtw sbnhc dbb rmlm wfr]
+$ cd wfr
+dir - /jsv/bwc/crbnzrtw/sbnhc/dbb/rmlm/wfr
+$ ls
      197220 dhjjr.dqq
-[jsv bwc crbnzrtw sbnhc dbb rmlm]
-[jsv bwc crbnzrtw sbnhc dbb]
-[jsv bwc crbnzrtw sbnhc]
-[jsv bwc crbnzrtw]
-[jsv bwc crbnzrtw shfhmdw]
+$ cd ..
+Adding 197220 to directory 
+Adding 197220 to directory jsv
+Adding 197220 to directory jsv/bwc
+Adding 197220 to directory jsv/bwc/crbnzrtw
+Adding 197220 to directory jsv/bwc/crbnzrtw/sbnhc
+Adding 197220 to directory jsv/bwc/crbnzrtw/sbnhc/dbb
+Adding 197220 to directory jsv/bwc/crbnzrtw/sbnhc/dbb/rmlm
+dir - /jsv/bwc/crbnzrtw/sbnhc/dbb/rmlm
+$ cd ..
+dir - /jsv/bwc/crbnzrtw/sbnhc/dbb
+$ cd ..
+dir - /jsv/bwc/crbnzrtw/sbnhc
+$ cd ..
+dir - /jsv/bwc/crbnzrtw
+$ cd shfhmdw
+dir - /jsv/bwc/crbnzrtw/shfhmdw
+$ ls
      221308 mhnfzmz.gqp
-[jsv bwc crbnzrtw]
-[jsv bwc crbnzrtw wmjgmd]
+$ cd ..
+Adding 221308 to directory 
+Adding 221308 to directory jsv
+Adding 221308 to directory jsv/bwc
+Adding 221308 to directory jsv/bwc/crbnzrtw
+dir - /jsv/bwc/crbnzrtw
+$ cd wmjgmd
+dir - /jsv/bwc/crbnzrtw/wmjgmd
+$ ls
      dir psrshrws
      dir zrtpgbg
-[jsv bwc crbnzrtw wmjgmd psrshrws]
+$ cd psrshrws
+dir - /jsv/bwc/crbnzrtw/wmjgmd/psrshrws
+$ ls
      202052 twgfblm
-[jsv bwc crbnzrtw wmjgmd]
-[jsv bwc crbnzrtw wmjgmd zrtpgbg]
+$ cd ..
+Adding 202052 to directory 
+Adding 202052 to directory jsv
+Adding 202052 to directory jsv/bwc
+Adding 202052 to directory jsv/bwc/crbnzrtw
+Adding 202052 to directory jsv/bwc/crbnzrtw/wmjgmd
+dir - /jsv/bwc/crbnzrtw/wmjgmd
+$ cd zrtpgbg
+dir - /jsv/bwc/crbnzrtw/wmjgmd/zrtpgbg
+$ ls
      48134 hsnzvhvm.gnp
-[jsv bwc crbnzrtw wmjgmd]
-[jsv bwc crbnzrtw]
-[jsv bwc]
-[jsv bwc dcqq]
+$ cd ..
+Adding 48134 to directory 
+Adding 48134 to directory jsv
+Adding 48134 to directory jsv/bwc
+Adding 48134 to directory jsv/bwc/crbnzrtw
+Adding 48134 to directory jsv/bwc/crbnzrtw/wmjgmd
+dir - /jsv/bwc/crbnzrtw/wmjgmd
+$ cd ..
+dir - /jsv/bwc/crbnzrtw
+$ cd ..
+dir - /jsv/bwc
+$ cd dcqq
+dir - /jsv/bwc/dcqq
+$ ls
      63600 tlclsj.pvg
      181384 tzjn
      90096 wgq.lrm
-[jsv bwc]
-[jsv bwc gdgh]
+$ cd ..
+Adding 335080 to directory 
+Adding 335080 to directory jsv
+Adding 335080 to directory jsv/bwc
+dir - /jsv/bwc
+$ cd gdgh
+dir - /jsv/bwc/gdgh
+$ ls
      78450 hrcdgnpv.ctz
-[jsv bwc]
-[jsv bwc gsst]
+$ cd ..
+Adding 78450 to directory 
+Adding 78450 to directory jsv
+Adding 78450 to directory jsv/bwc
+dir - /jsv/bwc
+$ cd gsst
+dir - /jsv/bwc/gsst
+$ ls
      345240 nfqs.crt
      199259 sct
-[jsv bwc]
-[jsv bwc jwrhclh]
+$ cd ..
+Adding 544499 to directory 
+Adding 544499 to directory jsv
+Adding 544499 to directory jsv/bwc
+dir - /jsv/bwc
+$ cd jwrhclh
+dir - /jsv/bwc/jwrhclh
+$ ls
      dir ftjcr
      177499 nhdh.bbn
      dir sbnhc
      dir vnlmlq
      dir wqjnwgpj
-[jsv bwc jwrhclh ftjcr]
+$ cd ftjcr
+Adding 177499 to directory 
+Adding 177499 to directory jsv
+Adding 177499 to directory jsv/bwc
+dir - /jsv/bwc/jwrhclh/ftjcr
+$ ls
      dir glfptjpb
      121761 gqp
      36602 lcgfmtf.zct
@@ -240,64 +524,175 @@
      dir rrrrgbqv
      236133 wdmwgzvs.jnw
      dir zwrmjlh
-[jsv bwc jwrhclh ftjcr glfptjpb]
+$ cd glfptjpb
+Adding 394496 to directory 
+Adding 394496 to directory jsv
+Adding 394496 to directory jsv/bwc
+Adding 394496 to directory jsv/bwc/jwrhclh
+dir - /jsv/bwc/jwrhclh/ftjcr/glfptjpb
+$ ls
      dir fdnppcr
      dir gchhnd
      dir gdphvds
      98000 gqhv
-[jsv bwc jwrhclh ftjcr glfptjpb fdnppcr]
+$ cd fdnppcr
+Adding 98000 to directory 
+Adding 98000 to directory jsv
+Adding 98000 to directory jsv/bwc
+Adding 98000 to directory jsv/bwc/jwrhclh
+Adding 98000 to directory jsv/bwc/jwrhclh/ftjcr
+dir - /jsv/bwc/jwrhclh/ftjcr/glfptjpb/fdnppcr
+$ ls
      dir dwvphbm
      dir ngsgrgp
-[jsv bwc jwrhclh ftjcr glfptjpb fdnppcr dwvphbm]
+$ cd dwvphbm
+dir - /jsv/bwc/jwrhclh/ftjcr/glfptjpb/fdnppcr/dwvphbm
+$ ls
      dir wrg
-[jsv bwc jwrhclh ftjcr glfptjpb fdnppcr dwvphbm wrg]
+$ cd wrg
+dir - /jsv/bwc/jwrhclh/ftjcr/glfptjpb/fdnppcr/dwvphbm/wrg
+$ ls
      265022 cqhdvmzp.npw
      316916 nfqs.crt
-[jsv bwc jwrhclh ftjcr glfptjpb fdnppcr dwvphbm]
-[jsv bwc jwrhclh ftjcr glfptjpb fdnppcr]
-[jsv bwc jwrhclh ftjcr glfptjpb fdnppcr ngsgrgp]
+$ cd ..
+Adding 581938 to directory 
+Adding 581938 to directory jsv
+Adding 581938 to directory jsv/bwc
+Adding 581938 to directory jsv/bwc/jwrhclh
+Adding 581938 to directory jsv/bwc/jwrhclh/ftjcr
+Adding 581938 to directory jsv/bwc/jwrhclh/ftjcr/glfptjpb
+Adding 581938 to directory jsv/bwc/jwrhclh/ftjcr/glfptjpb/fdnppcr
+Adding 581938 to directory jsv/bwc/jwrhclh/ftjcr/glfptjpb/fdnppcr/dwvphbm
+dir - /jsv/bwc/jwrhclh/ftjcr/glfptjpb/fdnppcr/dwvphbm
+$ cd ..
+dir - /jsv/bwc/jwrhclh/ftjcr/glfptjpb/fdnppcr
+$ cd ngsgrgp
+dir - /jsv/bwc/jwrhclh/ftjcr/glfptjpb/fdnppcr/ngsgrgp
+$ ls
      110198 sct
-[jsv bwc jwrhclh ftjcr glfptjpb fdnppcr]
-[jsv bwc jwrhclh ftjcr glfptjpb]
-[jsv bwc jwrhclh ftjcr glfptjpb gchhnd]
+$ cd ..
+Adding 110198 to directory 
+Adding 110198 to directory jsv
+Adding 110198 to directory jsv/bwc
+Adding 110198 to directory jsv/bwc/jwrhclh
+Adding 110198 to directory jsv/bwc/jwrhclh/ftjcr
+Adding 110198 to directory jsv/bwc/jwrhclh/ftjcr/glfptjpb
+Adding 110198 to directory jsv/bwc/jwrhclh/ftjcr/glfptjpb/fdnppcr
+dir - /jsv/bwc/jwrhclh/ftjcr/glfptjpb/fdnppcr
+$ cd ..
+dir - /jsv/bwc/jwrhclh/ftjcr/glfptjpb
+$ cd gchhnd
+dir - /jsv/bwc/jwrhclh/ftjcr/glfptjpb/gchhnd
+$ ls
      253836 hbnlqs
      39462 mfhzl
      211458 nfqs.crt
-[jsv bwc jwrhclh ftjcr glfptjpb]
-[jsv bwc jwrhclh ftjcr glfptjpb gdphvds]
+$ cd ..
+Adding 504756 to directory 
+Adding 504756 to directory jsv
+Adding 504756 to directory jsv/bwc
+Adding 504756 to directory jsv/bwc/jwrhclh
+Adding 504756 to directory jsv/bwc/jwrhclh/ftjcr
+Adding 504756 to directory jsv/bwc/jwrhclh/ftjcr/glfptjpb
+dir - /jsv/bwc/jwrhclh/ftjcr/glfptjpb
+$ cd gdphvds
+dir - /jsv/bwc/jwrhclh/ftjcr/glfptjpb/gdphvds
+$ ls
      dir dpdb
-[jsv bwc jwrhclh ftjcr glfptjpb gdphvds dpdb]
+$ cd dpdb
+dir - /jsv/bwc/jwrhclh/ftjcr/glfptjpb/gdphvds/dpdb
+$ ls
      342610 vnlmlq
-[jsv bwc jwrhclh ftjcr glfptjpb gdphvds]
-[jsv bwc jwrhclh ftjcr glfptjpb]
-[jsv bwc jwrhclh ftjcr]
-[jsv bwc jwrhclh ftjcr mfhzl]
+$ cd ..
+Adding 342610 to directory 
+Adding 342610 to directory jsv
+Adding 342610 to directory jsv/bwc
+Adding 342610 to directory jsv/bwc/jwrhclh
+Adding 342610 to directory jsv/bwc/jwrhclh/ftjcr
+Adding 342610 to directory jsv/bwc/jwrhclh/ftjcr/glfptjpb
+Adding 342610 to directory jsv/bwc/jwrhclh/ftjcr/glfptjpb/gdphvds
+dir - /jsv/bwc/jwrhclh/ftjcr/glfptjpb/gdphvds
+$ cd ..
+dir - /jsv/bwc/jwrhclh/ftjcr/glfptjpb
+$ cd ..
+dir - /jsv/bwc/jwrhclh/ftjcr
+$ cd mfhzl
+dir - /jsv/bwc/jwrhclh/ftjcr/mfhzl
+$ ls
      dir cptj
-[jsv bwc jwrhclh ftjcr mfhzl cptj]
+$ cd cptj
+dir - /jsv/bwc/jwrhclh/ftjcr/mfhzl/cptj
+$ ls
      100729 nvctqj.gjw
-[jsv bwc jwrhclh ftjcr mfhzl]
-[jsv bwc jwrhclh ftjcr]
-[jsv bwc jwrhclh ftjcr rrrrgbqv]
+$ cd ..
+Adding 100729 to directory 
+Adding 100729 to directory jsv
+Adding 100729 to directory jsv/bwc
+Adding 100729 to directory jsv/bwc/jwrhclh
+Adding 100729 to directory jsv/bwc/jwrhclh/ftjcr
+Adding 100729 to directory jsv/bwc/jwrhclh/ftjcr/mfhzl
+dir - /jsv/bwc/jwrhclh/ftjcr/mfhzl
+$ cd ..
+dir - /jsv/bwc/jwrhclh/ftjcr
+$ cd rrrrgbqv
+dir - /jsv/bwc/jwrhclh/ftjcr/rrrrgbqv
+$ ls
      166055 dwvphbm.rvb
      303762 hbnlqs
      277411 wzr.rgz
-[jsv bwc jwrhclh ftjcr]
-[jsv bwc jwrhclh ftjcr zwrmjlh]
+$ cd ..
+Adding 747228 to directory 
+Adding 747228 to directory jsv
+Adding 747228 to directory jsv/bwc
+Adding 747228 to directory jsv/bwc/jwrhclh
+Adding 747228 to directory jsv/bwc/jwrhclh/ftjcr
+dir - /jsv/bwc/jwrhclh/ftjcr
+$ cd zwrmjlh
+dir - /jsv/bwc/jwrhclh/ftjcr/zwrmjlh
+$ ls
      32583 dvfnw
-[jsv bwc jwrhclh ftjcr]
-[jsv bwc jwrhclh]
-[jsv bwc jwrhclh sbnhc]
+$ cd ..
+Adding 32583 to directory 
+Adding 32583 to directory jsv
+Adding 32583 to directory jsv/bwc
+Adding 32583 to directory jsv/bwc/jwrhclh
+Adding 32583 to directory jsv/bwc/jwrhclh/ftjcr
+dir - /jsv/bwc/jwrhclh/ftjcr
+$ cd ..
+dir - /jsv/bwc/jwrhclh
+$ cd sbnhc
+dir - /jsv/bwc/jwrhclh/sbnhc
+$ ls
      dir hwtmwp
      334229 mfhzl
      299303 vtrfbw.dng
-[jsv bwc jwrhclh sbnhc hwtmwp]
+$ cd hwtmwp
+Adding 633532 to directory 
+Adding 633532 to directory jsv
+Adding 633532 to directory jsv/bwc
+Adding 633532 to directory jsv/bwc/jwrhclh
+dir - /jsv/bwc/jwrhclh/sbnhc/hwtmwp
+$ ls
      dir zjmrr
-[jsv bwc jwrhclh sbnhc hwtmwp zjmrr]
+$ cd zjmrr
+dir - /jsv/bwc/jwrhclh/sbnhc/hwtmwp/zjmrr
+$ ls
      279103 cqhdvmzp.npw
-[jsv bwc jwrhclh sbnhc hwtmwp]
-[jsv bwc jwrhclh sbnhc]
-[jsv bwc jwrhclh]
-[jsv bwc jwrhclh vnlmlq]
+$ cd ..
+Adding 279103 to directory 
+Adding 279103 to directory jsv
+Adding 279103 to directory jsv/bwc
+Adding 279103 to directory jsv/bwc/jwrhclh
+Adding 279103 to directory jsv/bwc/jwrhclh/sbnhc
+Adding 279103 to directory jsv/bwc/jwrhclh/sbnhc/hwtmwp
+dir - /jsv/bwc/jwrhclh/sbnhc/hwtmwp
+$ cd ..
+dir - /jsv/bwc/jwrhclh/sbnhc
+$ cd ..
+dir - /jsv/bwc/jwrhclh
+$ cd vnlmlq
+dir - /jsv/bwc/jwrhclh/vnlmlq
+$ ls
      dir btqsh
      dir clhclcr
      237487 cqhdvmzp.npw
@@ -307,52 +702,149 @@
      234450 rqlnhpc.qfd
      dir vbrc
      dir vfdqq
-[jsv bwc jwrhclh vnlmlq btqsh]
+$ cd btqsh
+Adding 574811 to directory 
+Adding 574811 to directory jsv
+Adding 574811 to directory jsv/bwc
+Adding 574811 to directory jsv/bwc/jwrhclh
+dir - /jsv/bwc/jwrhclh/vnlmlq/btqsh
+$ ls
      dir lgh
      dir ljrjpg
      34333 rbq.hpj
      15387 vzldp.ffs
-[jsv bwc jwrhclh vnlmlq btqsh lgh]
+$ cd lgh
+Adding 49720 to directory 
+Adding 49720 to directory jsv
+Adding 49720 to directory jsv/bwc
+Adding 49720 to directory jsv/bwc/jwrhclh
+Adding 49720 to directory jsv/bwc/jwrhclh/vnlmlq
+dir - /jsv/bwc/jwrhclh/vnlmlq/btqsh/lgh
+$ ls
      176966 vnlmlq
-[jsv bwc jwrhclh vnlmlq btqsh]
-[jsv bwc jwrhclh vnlmlq btqsh ljrjpg]
+$ cd ..
+Adding 176966 to directory 
+Adding 176966 to directory jsv
+Adding 176966 to directory jsv/bwc
+Adding 176966 to directory jsv/bwc/jwrhclh
+Adding 176966 to directory jsv/bwc/jwrhclh/vnlmlq
+Adding 176966 to directory jsv/bwc/jwrhclh/vnlmlq/btqsh
+dir - /jsv/bwc/jwrhclh/vnlmlq/btqsh
+$ cd ljrjpg
+dir - /jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg
+$ ls
      231230 cqhdvmzp.npw
      dir dwvphbm
      dir mfhzl
      251554 rdrbn.clr
      180447 sbnhc
-[jsv bwc jwrhclh vnlmlq btqsh ljrjpg dwvphbm]
+$ cd dwvphbm
+Adding 663231 to directory 
+Adding 663231 to directory jsv
+Adding 663231 to directory jsv/bwc
+Adding 663231 to directory jsv/bwc/jwrhclh
+Adding 663231 to directory jsv/bwc/jwrhclh/vnlmlq
+Adding 663231 to directory jsv/bwc/jwrhclh/vnlmlq/btqsh
+dir - /jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/dwvphbm
+$ ls
      dir vghvsmq
-[jsv bwc jwrhclh vnlmlq btqsh ljrjpg dwvphbm vghvsmq]
+$ cd vghvsmq
+dir - /jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/dwvphbm/vghvsmq
+$ ls
      132209 cqhdvmzp.npw
      dir jqmgn
-[jsv bwc jwrhclh vnlmlq btqsh ljrjpg dwvphbm vghvsmq jqmgn]
+$ cd jqmgn
+Adding 132209 to directory 
+Adding 132209 to directory jsv
+Adding 132209 to directory jsv/bwc
+Adding 132209 to directory jsv/bwc/jwrhclh
+Adding 132209 to directory jsv/bwc/jwrhclh/vnlmlq
+Adding 132209 to directory jsv/bwc/jwrhclh/vnlmlq/btqsh
+Adding 132209 to directory jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg
+Adding 132209 to directory jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/dwvphbm
+dir - /jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/dwvphbm/vghvsmq/jqmgn
+$ ls
      95992 clbvg.bmr
-[jsv bwc jwrhclh vnlmlq btqsh ljrjpg dwvphbm vghvsmq]
-[jsv bwc jwrhclh vnlmlq btqsh ljrjpg dwvphbm]
-[jsv bwc jwrhclh vnlmlq btqsh ljrjpg]
-[jsv bwc jwrhclh vnlmlq btqsh ljrjpg mfhzl]
+$ cd ..
+Adding 95992 to directory 
+Adding 95992 to directory jsv
+Adding 95992 to directory jsv/bwc
+Adding 95992 to directory jsv/bwc/jwrhclh
+Adding 95992 to directory jsv/bwc/jwrhclh/vnlmlq
+Adding 95992 to directory jsv/bwc/jwrhclh/vnlmlq/btqsh
+Adding 95992 to directory jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg
+Adding 95992 to directory jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/dwvphbm
+Adding 95992 to directory jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/dwvphbm/vghvsmq
+dir - /jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/dwvphbm/vghvsmq
+$ cd ..
+dir - /jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/dwvphbm
+$ cd ..
+dir - /jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg
+$ cd mfhzl
+dir - /jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/mfhzl
+$ ls
      dir dcqq
-[jsv bwc jwrhclh vnlmlq btqsh ljrjpg mfhzl dcqq]
+$ cd dcqq
+dir - /jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/mfhzl/dcqq
+$ ls
      dir vjhl
-[jsv bwc jwrhclh vnlmlq btqsh ljrjpg mfhzl dcqq vjhl]
+$ cd vjhl
+dir - /jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/mfhzl/dcqq/vjhl
+$ ls
      dir nbhmzl
-[jsv bwc jwrhclh vnlmlq btqsh ljrjpg mfhzl dcqq vjhl nbhmzl]
+$ cd nbhmzl
+dir - /jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/mfhzl/dcqq/vjhl/nbhmzl
+$ ls
      155454 sbnhc.flh
-[jsv bwc jwrhclh vnlmlq btqsh ljrjpg mfhzl dcqq vjhl]
-[jsv bwc jwrhclh vnlmlq btqsh ljrjpg mfhzl dcqq]
-[jsv bwc jwrhclh vnlmlq btqsh ljrjpg mfhzl]
-[jsv bwc jwrhclh vnlmlq btqsh ljrjpg]
-[jsv bwc jwrhclh vnlmlq btqsh]
-[jsv bwc jwrhclh vnlmlq]
-[jsv bwc jwrhclh vnlmlq clhclcr]
+$ cd ..
+Adding 155454 to directory 
+Adding 155454 to directory jsv
+Adding 155454 to directory jsv/bwc
+Adding 155454 to directory jsv/bwc/jwrhclh
+Adding 155454 to directory jsv/bwc/jwrhclh/vnlmlq
+Adding 155454 to directory jsv/bwc/jwrhclh/vnlmlq/btqsh
+Adding 155454 to directory jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg
+Adding 155454 to directory jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/mfhzl
+Adding 155454 to directory jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/mfhzl/dcqq
+Adding 155454 to directory jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/mfhzl/dcqq/vjhl
+dir - /jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/mfhzl/dcqq/vjhl
+$ cd ..
+dir - /jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/mfhzl/dcqq
+$ cd ..
+dir - /jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/mfhzl
+$ cd ..
+dir - /jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg
+$ cd ..
+dir - /jsv/bwc/jwrhclh/vnlmlq/btqsh
+$ cd ..
+dir - /jsv/bwc/jwrhclh/vnlmlq
+$ cd clhclcr
+dir - /jsv/bwc/jwrhclh/vnlmlq/clhclcr
+$ ls
      dir jwqwhq
      268077 njcmcfl.ctm
-[jsv bwc jwrhclh vnlmlq clhclcr jwqwhq]
+$ cd jwqwhq
+Adding 268077 to directory 
+Adding 268077 to directory jsv
+Adding 268077 to directory jsv/bwc
+Adding 268077 to directory jsv/bwc/jwrhclh
+Adding 268077 to directory jsv/bwc/jwrhclh/vnlmlq
+dir - /jsv/bwc/jwrhclh/vnlmlq/clhclcr/jwqwhq
+$ ls
      256988 rbq.hpj
-[jsv bwc jwrhclh vnlmlq clhclcr]
-[jsv bwc jwrhclh vnlmlq]
-[jsv bwc jwrhclh vnlmlq qwbnvzv]
+$ cd ..
+Adding 256988 to directory 
+Adding 256988 to directory jsv
+Adding 256988 to directory jsv/bwc
+Adding 256988 to directory jsv/bwc/jwrhclh
+Adding 256988 to directory jsv/bwc/jwrhclh/vnlmlq
+Adding 256988 to directory jsv/bwc/jwrhclh/vnlmlq/clhclcr
+dir - /jsv/bwc/jwrhclh/vnlmlq/clhclcr
+$ cd ..
+dir - /jsv/bwc/jwrhclh/vnlmlq
+$ cd qwbnvzv
+dir - /jsv/bwc/jwrhclh/vnlmlq/qwbnvzv
+$ ls
      167852 dln.zrn
      dir hpwpm
      131149 lsc.tjj
@@ -360,80 +852,223 @@
      dir mzhwwrtp
      201277 sbnhc.pfh
      147232 zlmgttpl
-[jsv bwc jwrhclh vnlmlq qwbnvzv hpwpm]
+$ cd hpwpm
+Adding 647510 to directory 
+Adding 647510 to directory jsv
+Adding 647510 to directory jsv/bwc
+Adding 647510 to directory jsv/bwc/jwrhclh
+Adding 647510 to directory jsv/bwc/jwrhclh/vnlmlq
+dir - /jsv/bwc/jwrhclh/vnlmlq/qwbnvzv/hpwpm
+$ ls
      135194 jpzt.fjn
-[jsv bwc jwrhclh vnlmlq qwbnvzv]
-[jsv bwc jwrhclh vnlmlq qwbnvzv mfhzl]
+$ cd ..
+Adding 135194 to directory 
+Adding 135194 to directory jsv
+Adding 135194 to directory jsv/bwc
+Adding 135194 to directory jsv/bwc/jwrhclh
+Adding 135194 to directory jsv/bwc/jwrhclh/vnlmlq
+Adding 135194 to directory jsv/bwc/jwrhclh/vnlmlq/qwbnvzv
+dir - /jsv/bwc/jwrhclh/vnlmlq/qwbnvzv
+$ cd mfhzl
+dir - /jsv/bwc/jwrhclh/vnlmlq/qwbnvzv/mfhzl
+$ ls
      166015 jrcqvgf.jdg
-[jsv bwc jwrhclh vnlmlq qwbnvzv]
-[jsv bwc jwrhclh vnlmlq qwbnvzv mzhwwrtp]
+$ cd ..
+Adding 166015 to directory 
+Adding 166015 to directory jsv
+Adding 166015 to directory jsv/bwc
+Adding 166015 to directory jsv/bwc/jwrhclh
+Adding 166015 to directory jsv/bwc/jwrhclh/vnlmlq
+Adding 166015 to directory jsv/bwc/jwrhclh/vnlmlq/qwbnvzv
+dir - /jsv/bwc/jwrhclh/vnlmlq/qwbnvzv
+$ cd mzhwwrtp
+dir - /jsv/bwc/jwrhclh/vnlmlq/qwbnvzv/mzhwwrtp
+$ ls
      231983 dgrvfdmp
      121846 dwvphbm.lvp
-[jsv bwc jwrhclh vnlmlq qwbnvzv]
-[jsv bwc jwrhclh vnlmlq]
-[jsv bwc jwrhclh vnlmlq vbrc]
+$ cd ..
+Adding 353829 to directory 
+Adding 353829 to directory jsv
+Adding 353829 to directory jsv/bwc
+Adding 353829 to directory jsv/bwc/jwrhclh
+Adding 353829 to directory jsv/bwc/jwrhclh/vnlmlq
+Adding 353829 to directory jsv/bwc/jwrhclh/vnlmlq/qwbnvzv
+dir - /jsv/bwc/jwrhclh/vnlmlq/qwbnvzv
+$ cd ..
+dir - /jsv/bwc/jwrhclh/vnlmlq
+$ cd vbrc
+dir - /jsv/bwc/jwrhclh/vnlmlq/vbrc
+$ ls
      320029 wbhs.mpd
-[jsv bwc jwrhclh vnlmlq]
-[jsv bwc jwrhclh vnlmlq vfdqq]
+$ cd ..
+Adding 320029 to directory 
+Adding 320029 to directory jsv
+Adding 320029 to directory jsv/bwc
+Adding 320029 to directory jsv/bwc/jwrhclh
+Adding 320029 to directory jsv/bwc/jwrhclh/vnlmlq
+dir - /jsv/bwc/jwrhclh/vnlmlq
+$ cd vfdqq
+dir - /jsv/bwc/jwrhclh/vnlmlq/vfdqq
+$ ls
      277998 nfqs.crt
      dir qzgwglhc
      dir vnlmlq
      68520 wsc.vhz
      dir zfdhthfn
-[jsv bwc jwrhclh vnlmlq vfdqq qzgwglhc]
+$ cd qzgwglhc
+Adding 346518 to directory 
+Adding 346518 to directory jsv
+Adding 346518 to directory jsv/bwc
+Adding 346518 to directory jsv/bwc/jwrhclh
+Adding 346518 to directory jsv/bwc/jwrhclh/vnlmlq
+dir - /jsv/bwc/jwrhclh/vnlmlq/vfdqq/qzgwglhc
+$ ls
      25046 cqhdvmzp.npw
      250876 dwvphbm
-[jsv bwc jwrhclh vnlmlq vfdqq]
-[jsv bwc jwrhclh vnlmlq vfdqq vnlmlq]
+$ cd ..
+Adding 275922 to directory 
+Adding 275922 to directory jsv
+Adding 275922 to directory jsv/bwc
+Adding 275922 to directory jsv/bwc/jwrhclh
+Adding 275922 to directory jsv/bwc/jwrhclh/vnlmlq
+Adding 275922 to directory jsv/bwc/jwrhclh/vnlmlq/vfdqq
+dir - /jsv/bwc/jwrhclh/vnlmlq/vfdqq
+$ cd vnlmlq
+dir - /jsv/bwc/jwrhclh/vnlmlq/vfdqq/vnlmlq
+$ ls
      212688 hbnlqs
      8202 mlpl.tsp
      69495 vnlmlq.thv
      281200 vzdwr.tbl
-[jsv bwc jwrhclh vnlmlq vfdqq]
-[jsv bwc jwrhclh vnlmlq vfdqq zfdhthfn]
+$ cd ..
+Adding 571585 to directory 
+Adding 571585 to directory jsv
+Adding 571585 to directory jsv/bwc
+Adding 571585 to directory jsv/bwc/jwrhclh
+Adding 571585 to directory jsv/bwc/jwrhclh/vnlmlq
+Adding 571585 to directory jsv/bwc/jwrhclh/vnlmlq/vfdqq
+dir - /jsv/bwc/jwrhclh/vnlmlq/vfdqq
+$ cd zfdhthfn
+dir - /jsv/bwc/jwrhclh/vnlmlq/vfdqq/zfdhthfn
+$ ls
      233242 dstb.hrs
      269387 nfqs.crt
-[jsv bwc jwrhclh vnlmlq vfdqq]
-[jsv bwc jwrhclh vnlmlq]
-[jsv bwc jwrhclh]
-[jsv bwc jwrhclh wqjnwgpj]
+$ cd ..
+Adding 502629 to directory 
+Adding 502629 to directory jsv
+Adding 502629 to directory jsv/bwc
+Adding 502629 to directory jsv/bwc/jwrhclh
+Adding 502629 to directory jsv/bwc/jwrhclh/vnlmlq
+Adding 502629 to directory jsv/bwc/jwrhclh/vnlmlq/vfdqq
+dir - /jsv/bwc/jwrhclh/vnlmlq/vfdqq
+$ cd ..
+dir - /jsv/bwc/jwrhclh/vnlmlq
+$ cd ..
+dir - /jsv/bwc/jwrhclh
+$ cd wqjnwgpj
+dir - /jsv/bwc/jwrhclh/wqjnwgpj
+$ ls
      dir hfd
      dir lbft
      dir rtlw
      dir vbf
-[jsv bwc jwrhclh wqjnwgpj hfd]
+$ cd hfd
+dir - /jsv/bwc/jwrhclh/wqjnwgpj/hfd
+$ ls
      224694 cqhdvmzp.npw
      100103 dbmwn.tqz
-[jsv bwc jwrhclh wqjnwgpj]
-[jsv bwc jwrhclh wqjnwgpj lbft]
+$ cd ..
+Adding 324797 to directory 
+Adding 324797 to directory jsv
+Adding 324797 to directory jsv/bwc
+Adding 324797 to directory jsv/bwc/jwrhclh
+Adding 324797 to directory jsv/bwc/jwrhclh/wqjnwgpj
+dir - /jsv/bwc/jwrhclh/wqjnwgpj
+$ cd lbft
+dir - /jsv/bwc/jwrhclh/wqjnwgpj/lbft
+$ ls
      60107 hbnlqs
-[jsv bwc jwrhclh wqjnwgpj]
-[jsv bwc jwrhclh wqjnwgpj rtlw]
+$ cd ..
+Adding 60107 to directory 
+Adding 60107 to directory jsv
+Adding 60107 to directory jsv/bwc
+Adding 60107 to directory jsv/bwc/jwrhclh
+Adding 60107 to directory jsv/bwc/jwrhclh/wqjnwgpj
+dir - /jsv/bwc/jwrhclh/wqjnwgpj
+$ cd rtlw
+dir - /jsv/bwc/jwrhclh/wqjnwgpj/rtlw
+$ ls
      dir ntpb
-[jsv bwc jwrhclh wqjnwgpj rtlw ntpb]
+$ cd ntpb
+dir - /jsv/bwc/jwrhclh/wqjnwgpj/rtlw/ntpb
+$ ls
      341166 mfhzl.pvj
-[jsv bwc jwrhclh wqjnwgpj rtlw]
-[jsv bwc jwrhclh wqjnwgpj]
-[jsv bwc jwrhclh wqjnwgpj vbf]
+$ cd ..
+Adding 341166 to directory 
+Adding 341166 to directory jsv
+Adding 341166 to directory jsv/bwc
+Adding 341166 to directory jsv/bwc/jwrhclh
+Adding 341166 to directory jsv/bwc/jwrhclh/wqjnwgpj
+Adding 341166 to directory jsv/bwc/jwrhclh/wqjnwgpj/rtlw
+dir - /jsv/bwc/jwrhclh/wqjnwgpj/rtlw
+$ cd ..
+dir - /jsv/bwc/jwrhclh/wqjnwgpj
+$ cd vbf
+dir - /jsv/bwc/jwrhclh/wqjnwgpj/vbf
+$ ls
      54177 ghrscj.tlh
-[jsv bwc jwrhclh wqjnwgpj]
-[jsv bwc jwrhclh]
-[jsv bwc]
-[jsv bwc nbwfdvsv]
+$ cd ..
+Adding 54177 to directory 
+Adding 54177 to directory jsv
+Adding 54177 to directory jsv/bwc
+Adding 54177 to directory jsv/bwc/jwrhclh
+Adding 54177 to directory jsv/bwc/jwrhclh/wqjnwgpj
+dir - /jsv/bwc/jwrhclh/wqjnwgpj
+$ cd ..
+dir - /jsv/bwc/jwrhclh
+$ cd ..
+dir - /jsv/bwc
+$ cd nbwfdvsv
+dir - /jsv/bwc/nbwfdvsv
+$ ls
      107273 mptw.qmn
-[jsv bwc]
-[jsv bwc qnwhfv]
+$ cd ..
+Adding 107273 to directory 
+Adding 107273 to directory jsv
+Adding 107273 to directory jsv/bwc
+dir - /jsv/bwc
+$ cd qnwhfv
+dir - /jsv/bwc/qnwhfv
+$ ls
      55633 hbnlqs
-[jsv bwc]
-[jsv bwc sbnhc]
+$ cd ..
+Adding 55633 to directory 
+Adding 55633 to directory jsv
+Adding 55633 to directory jsv/bwc
+dir - /jsv/bwc
+$ cd sbnhc
+dir - /jsv/bwc/sbnhc
+$ ls
      173163 vnlmlq
-[jsv bwc]
-[jsv]
-[jsv dcqq]
+$ cd ..
+Adding 173163 to directory 
+Adding 173163 to directory jsv
+Adding 173163 to directory jsv/bwc
+dir - /jsv/bwc
+$ cd ..
+dir - /jsv
+$ cd dcqq
+dir - /jsv/dcqq
+$ ls
      217679 hbnlqs
      146747 ltp
-[jsv]
-[jsv rhstw]
+$ cd ..
+Adding 364426 to directory 
+Adding 364426 to directory jsv
+dir - /jsv
+$ cd rhstw
+dir - /jsv/rhstw
+$ ls
      dir clh
      dir grz
      dir ntjtzr
@@ -441,133 +1076,325 @@
      dir rzqp
      dir tzgrs
      dir zrdh
-[jsv rhstw clh]
+$ cd clh
+dir - /jsv/rhstw/clh
+$ ls
      212153 cqhdvmzp.npw
-[jsv rhstw]
-[jsv rhstw grz]
+$ cd ..
+Adding 212153 to directory 
+Adding 212153 to directory jsv
+Adding 212153 to directory jsv/rhstw
+dir - /jsv/rhstw
+$ cd grz
+dir - /jsv/rhstw/grz
+$ ls
      346002 cqhdvmzp.npw
-[jsv rhstw]
-[jsv rhstw ntjtzr]
+$ cd ..
+Adding 346002 to directory 
+Adding 346002 to directory jsv
+Adding 346002 to directory jsv/rhstw
+dir - /jsv/rhstw
+$ cd ntjtzr
+dir - /jsv/rhstw/ntjtzr
+$ ls
      271549 rbq.hpj
      308693 sbnhc.zrv
-[jsv rhstw]
-[jsv rhstw qrjgl]
+$ cd ..
+Adding 580242 to directory 
+Adding 580242 to directory jsv
+Adding 580242 to directory jsv/rhstw
+dir - /jsv/rhstw
+$ cd qrjgl
+dir - /jsv/rhstw/qrjgl
+$ ls
      119344 jfshwj
-[jsv rhstw]
-[jsv rhstw rzqp]
+$ cd ..
+Adding 119344 to directory 
+Adding 119344 to directory jsv
+Adding 119344 to directory jsv/rhstw
+dir - /jsv/rhstw
+$ cd rzqp
+dir - /jsv/rhstw/rzqp
+$ ls
      327891 dcqq
      210282 hlmnv.jph
      118199 nfqs.crt
      dir rwh
-[jsv rhstw rzqp rwh]
+$ cd rwh
+Adding 656372 to directory 
+Adding 656372 to directory jsv
+Adding 656372 to directory jsv/rhstw
+dir - /jsv/rhstw/rzqp/rwh
+$ ls
      285057 rmvrnb
-[jsv rhstw rzqp]
-[jsv rhstw]
-[jsv rhstw tzgrs]
+$ cd ..
+Adding 285057 to directory 
+Adding 285057 to directory jsv
+Adding 285057 to directory jsv/rhstw
+Adding 285057 to directory jsv/rhstw/rzqp
+dir - /jsv/rhstw/rzqp
+$ cd ..
+dir - /jsv/rhstw
+$ cd tzgrs
+dir - /jsv/rhstw/tzgrs
+$ ls
      23830 cjqrr
-[jsv rhstw]
-[jsv rhstw zrdh]
+$ cd ..
+Adding 23830 to directory 
+Adding 23830 to directory jsv
+Adding 23830 to directory jsv/rhstw
+dir - /jsv/rhstw
+$ cd zrdh
+dir - /jsv/rhstw/zrdh
+$ ls
      dir dcqq
      dir dwvphbm
      188911 rbq.hpj
      dir vpnzs
-[jsv rhstw zrdh dcqq]
+$ cd dcqq
+Adding 188911 to directory 
+Adding 188911 to directory jsv
+Adding 188911 to directory jsv/rhstw
+dir - /jsv/rhstw/zrdh/dcqq
+$ ls
      277454 hbnlqs
      dir jnncgzgm
-[jsv rhstw zrdh dcqq jnncgzgm]
+$ cd jnncgzgm
+Adding 277454 to directory 
+Adding 277454 to directory jsv
+Adding 277454 to directory jsv/rhstw
+Adding 277454 to directory jsv/rhstw/zrdh
+dir - /jsv/rhstw/zrdh/dcqq/jnncgzgm
+$ ls
      199664 dcqq.tgm
-[jsv rhstw zrdh dcqq]
-[jsv rhstw zrdh]
-[jsv rhstw zrdh dwvphbm]
+$ cd ..
+Adding 199664 to directory 
+Adding 199664 to directory jsv
+Adding 199664 to directory jsv/rhstw
+Adding 199664 to directory jsv/rhstw/zrdh
+Adding 199664 to directory jsv/rhstw/zrdh/dcqq
+dir - /jsv/rhstw/zrdh/dcqq
+$ cd ..
+dir - /jsv/rhstw/zrdh
+$ cd dwvphbm
+dir - /jsv/rhstw/zrdh/dwvphbm
+$ ls
      221700 fgnznr.dhf
-[jsv rhstw zrdh]
-[jsv rhstw zrdh vpnzs]
+$ cd ..
+Adding 221700 to directory 
+Adding 221700 to directory jsv
+Adding 221700 to directory jsv/rhstw
+Adding 221700 to directory jsv/rhstw/zrdh
+dir - /jsv/rhstw/zrdh
+$ cd vpnzs
+dir - /jsv/rhstw/zrdh/vpnzs
+$ ls
      254459 fvcf.zcj
-[jsv rhstw zrdh]
-[jsv rhstw]
-[jsv]
-[jsv vnlmlq]
+$ cd ..
+Adding 254459 to directory 
+Adding 254459 to directory jsv
+Adding 254459 to directory jsv/rhstw
+Adding 254459 to directory jsv/rhstw/zrdh
+dir - /jsv/rhstw/zrdh
+$ cd ..
+dir - /jsv/rhstw
+$ cd ..
+dir - /jsv
+$ cd vnlmlq
+dir - /jsv/vnlmlq
+$ ls
      dir gfsj
-[jsv vnlmlq gfsj]
+$ cd gfsj
+dir - /jsv/vnlmlq/gfsj
+$ ls
      dir hddvr
-[jsv vnlmlq gfsj hddvr]
+$ cd hddvr
+dir - /jsv/vnlmlq/gfsj/hddvr
+$ ls
      dir mqmnzb
-[jsv vnlmlq gfsj hddvr mqmnzb]
+$ cd mqmnzb
+dir - /jsv/vnlmlq/gfsj/hddvr/mqmnzb
+$ ls
      341835 jjjh
-[jsv vnlmlq gfsj hddvr]
-[jsv vnlmlq gfsj]
-[jsv vnlmlq]
-[jsv]
-[]
-[mfhzl]
+$ cd ..
+Adding 341835 to directory 
+Adding 341835 to directory jsv
+Adding 341835 to directory jsv/vnlmlq
+Adding 341835 to directory jsv/vnlmlq/gfsj
+Adding 341835 to directory jsv/vnlmlq/gfsj/hddvr
+dir - /jsv/vnlmlq/gfsj/hddvr
+$ cd ..
+dir - /jsv/vnlmlq/gfsj
+$ cd ..
+dir - /jsv/vnlmlq
+$ cd ..
+dir - /jsv
+$ cd ..
+dir - /
+$ cd mfhzl
+dir - /mfhzl
+$ ls
      dir pccldwf
-[mfhzl pccldwf]
+$ cd pccldwf
+dir - /mfhzl/pccldwf
+$ ls
      126977 nvcw
      318605 rljpfnc.dzd
-[mfhzl]
-[]
-[nljtr]
+$ cd ..
+Adding 445582 to directory 
+Adding 445582 to directory mfhzl
+dir - /mfhzl
+$ cd ..
+dir - /
+$ cd nljtr
+dir - /nljtr
+$ ls
      dir slztzqd
-[nljtr slztzqd]
+$ cd slztzqd
+dir - /nljtr/slztzqd
+$ ls
      55754 bpwghjpg.bfq
      205753 pfplh
      319151 vdlmjj.mmn
      dir vnlmlq
-[nljtr slztzqd vnlmlq]
+$ cd vnlmlq
+Adding 580658 to directory 
+Adding 580658 to directory nljtr
+dir - /nljtr/slztzqd/vnlmlq
+$ ls
      dir mfhzl
      338081 zhjrrs
      dir zpj
-[nljtr slztzqd vnlmlq mfhzl]
+$ cd mfhzl
+Adding 338081 to directory 
+Adding 338081 to directory nljtr
+Adding 338081 to directory nljtr/slztzqd
+dir - /nljtr/slztzqd/vnlmlq/mfhzl
+$ ls
      dir dcqq
      dir lgfb
      dir rjbprpnl
      343125 vnlmlq.zpr
-[nljtr slztzqd vnlmlq mfhzl dcqq]
+$ cd dcqq
+Adding 343125 to directory 
+Adding 343125 to directory nljtr
+Adding 343125 to directory nljtr/slztzqd
+Adding 343125 to directory nljtr/slztzqd/vnlmlq
+dir - /nljtr/slztzqd/vnlmlq/mfhzl/dcqq
+$ ls
      288030 rbq.hpj
-[nljtr slztzqd vnlmlq mfhzl]
-[nljtr slztzqd vnlmlq mfhzl lgfb]
+$ cd ..
+Adding 288030 to directory 
+Adding 288030 to directory nljtr
+Adding 288030 to directory nljtr/slztzqd
+Adding 288030 to directory nljtr/slztzqd/vnlmlq
+Adding 288030 to directory nljtr/slztzqd/vnlmlq/mfhzl
+dir - /nljtr/slztzqd/vnlmlq/mfhzl
+$ cd lgfb
+dir - /nljtr/slztzqd/vnlmlq/mfhzl/lgfb
+$ ls
      22119 cqhdvmzp.npw
      238775 wbmnzgt.vnl
-[nljtr slztzqd vnlmlq mfhzl]
-[nljtr slztzqd vnlmlq mfhzl rjbprpnl]
+$ cd ..
+Adding 260894 to directory 
+Adding 260894 to directory nljtr
+Adding 260894 to directory nljtr/slztzqd
+Adding 260894 to directory nljtr/slztzqd/vnlmlq
+Adding 260894 to directory nljtr/slztzqd/vnlmlq/mfhzl
+dir - /nljtr/slztzqd/vnlmlq/mfhzl
+$ cd rjbprpnl
+dir - /nljtr/slztzqd/vnlmlq/mfhzl/rjbprpnl
+$ ls
      244896 lvgg.jvz
-[nljtr slztzqd vnlmlq mfhzl]
-[nljtr slztzqd vnlmlq]
-[nljtr slztzqd vnlmlq zpj]
+$ cd ..
+Adding 244896 to directory 
+Adding 244896 to directory nljtr
+Adding 244896 to directory nljtr/slztzqd
+Adding 244896 to directory nljtr/slztzqd/vnlmlq
+Adding 244896 to directory nljtr/slztzqd/vnlmlq/mfhzl
+dir - /nljtr/slztzqd/vnlmlq/mfhzl
+$ cd ..
+dir - /nljtr/slztzqd/vnlmlq
+$ cd zpj
+dir - /nljtr/slztzqd/vnlmlq/zpj
+$ ls
      339679 dcqq
-[nljtr slztzqd vnlmlq]
-[nljtr slztzqd]
-[nljtr]
-[]
-[nwzp]
+$ cd ..
+Adding 339679 to directory 
+Adding 339679 to directory nljtr
+Adding 339679 to directory nljtr/slztzqd
+Adding 339679 to directory nljtr/slztzqd/vnlmlq
+dir - /nljtr/slztzqd/vnlmlq
+$ cd ..
+dir - /nljtr/slztzqd
+$ cd ..
+dir - /nljtr
+$ cd ..
+dir - /
+$ cd nwzp
+dir - /nwzp
+$ ls
      dir mfhzl
      dir vnlmlq
-[nwzp mfhzl]
+$ cd mfhzl
+dir - /nwzp/mfhzl
+$ ls
      107297 dwvphbm.nvb
-[nwzp]
-[nwzp vnlmlq]
+$ cd ..
+Adding 107297 to directory 
+Adding 107297 to directory nwzp
+dir - /nwzp
+$ cd vnlmlq
+dir - /nwzp/vnlmlq
+$ ls
      dir mdj
-[nwzp vnlmlq mdj]
+$ cd mdj
+dir - /nwzp/vnlmlq/mdj
+$ ls
      87553 dbtct.nws
-[nwzp vnlmlq]
-[nwzp]
-[]
-[rfwwwgr]
+$ cd ..
+Adding 87553 to directory 
+Adding 87553 to directory nwzp
+Adding 87553 to directory nwzp/vnlmlq
+dir - /nwzp/vnlmlq
+$ cd ..
+dir - /nwzp
+$ cd ..
+dir - /
+$ cd rfwwwgr
+dir - /rfwwwgr
+$ ls
      287719 flpwrp
      74896 mfhzl
-[]
-[sbnhc]
+$ cd ..
+Adding 362615 to directory 
+dir - /
+$ cd sbnhc
+dir - /sbnhc
+$ ls
      232949 dcqq.rnj
      dir dwvphbm
-[sbnhc dwvphbm]
+$ cd dwvphbm
+Adding 232949 to directory 
+dir - /sbnhc/dwvphbm
+$ ls
      21955 pcqbfbv.bfg
-[sbnhc]
-[]
-[zhfl]
+$ cd ..
+Adding 21955 to directory 
+Adding 21955 to directory sbnhc
+dir - /sbnhc
+$ cd ..
+dir - /
+$ cd zhfl
+dir - /zhfl
+$ ls
      dir jvnlhq
      dir vnlmlq
      180619 wcd.jsr
-[zhfl jvnlhq]
+$ cd jvnlhq
+Adding 180619 to directory 
+dir - /zhfl/jvnlhq
+$ ls
      20692 clp.vmd
      dir dbn
      91389 jqbp.zss
@@ -575,10 +1402,20 @@
      dir sbnhc
      dir sdrrzp
      192374 vnlmlq.lvj
-[zhfl jvnlhq dbn]
+$ cd dbn
+Adding 304455 to directory 
+Adding 304455 to directory zhfl
+dir - /zhfl/jvnlhq/dbn
+$ ls
      293401 dcqq
-[zhfl jvnlhq]
-[zhfl jvnlhq njmdrb]
+$ cd ..
+Adding 293401 to directory 
+Adding 293401 to directory zhfl
+Adding 293401 to directory zhfl/jvnlhq
+dir - /zhfl/jvnlhq
+$ cd njmdrb
+dir - /zhfl/jvnlhq/njmdrb
+$ ls
      270463 dvzbtnbb.vth
      dir gdvtg
      219739 hsdg.rss
@@ -586,64 +1423,165 @@
      285584 mhq
      dir mllvdccz
      234503 nfqs.crt
-[zhfl jvnlhq njmdrb gdvtg]
+$ cd gdvtg
+Adding 1010289 to directory 
+Adding 1010289 to directory zhfl
+Adding 1010289 to directory zhfl/jvnlhq
+dir - /zhfl/jvnlhq/njmdrb/gdvtg
+$ ls
      294243 dllnh
      27407 rws.vqt
-[zhfl jvnlhq njmdrb]
-[zhfl jvnlhq njmdrb mfhzl]
+$ cd ..
+Adding 321650 to directory 
+Adding 321650 to directory zhfl
+Adding 321650 to directory zhfl/jvnlhq
+Adding 321650 to directory zhfl/jvnlhq/njmdrb
+dir - /zhfl/jvnlhq/njmdrb
+$ cd mfhzl
+dir - /zhfl/jvnlhq/njmdrb/mfhzl
+$ ls
      dir dwvphbm
      154477 nbphv.pjc
      dir qpnncj
      33994 splscqn.tqz
      dir vnlmlq
-[zhfl jvnlhq njmdrb mfhzl dwvphbm]
+$ cd dwvphbm
+Adding 188471 to directory 
+Adding 188471 to directory zhfl
+Adding 188471 to directory zhfl/jvnlhq
+Adding 188471 to directory zhfl/jvnlhq/njmdrb
+dir - /zhfl/jvnlhq/njmdrb/mfhzl/dwvphbm
+$ ls
      87960 sct
-[zhfl jvnlhq njmdrb mfhzl]
-[zhfl jvnlhq njmdrb mfhzl qpnncj]
+$ cd ..
+Adding 87960 to directory 
+Adding 87960 to directory zhfl
+Adding 87960 to directory zhfl/jvnlhq
+Adding 87960 to directory zhfl/jvnlhq/njmdrb
+Adding 87960 to directory zhfl/jvnlhq/njmdrb/mfhzl
+dir - /zhfl/jvnlhq/njmdrb/mfhzl
+$ cd qpnncj
+dir - /zhfl/jvnlhq/njmdrb/mfhzl/qpnncj
+$ ls
      182692 lqbbz
-[zhfl jvnlhq njmdrb mfhzl]
-[zhfl jvnlhq njmdrb mfhzl vnlmlq]
+$ cd ..
+Adding 182692 to directory 
+Adding 182692 to directory zhfl
+Adding 182692 to directory zhfl/jvnlhq
+Adding 182692 to directory zhfl/jvnlhq/njmdrb
+Adding 182692 to directory zhfl/jvnlhq/njmdrb/mfhzl
+dir - /zhfl/jvnlhq/njmdrb/mfhzl
+$ cd vnlmlq
+dir - /zhfl/jvnlhq/njmdrb/mfhzl/vnlmlq
+$ ls
      285614 bfrjhpv.dvn
      121146 nfqs.crt
      84544 sbnhc
-[zhfl jvnlhq njmdrb mfhzl]
-[zhfl jvnlhq njmdrb]
-[zhfl jvnlhq njmdrb mllvdccz]
+$ cd ..
+Adding 491304 to directory 
+Adding 491304 to directory zhfl
+Adding 491304 to directory zhfl/jvnlhq
+Adding 491304 to directory zhfl/jvnlhq/njmdrb
+Adding 491304 to directory zhfl/jvnlhq/njmdrb/mfhzl
+dir - /zhfl/jvnlhq/njmdrb/mfhzl
+$ cd ..
+dir - /zhfl/jvnlhq/njmdrb
+$ cd mllvdccz
+dir - /zhfl/jvnlhq/njmdrb/mllvdccz
+$ ls
      184878 bsjzsmw.pwt
      184061 dcqq.bbm
      243546 dwvphbm.rdw
      dir ftmrszgl
      8251 rbq.hpj
      dir tgvchzn
-[zhfl jvnlhq njmdrb mllvdccz ftmrszgl]
+$ cd ftmrszgl
+Adding 620736 to directory 
+Adding 620736 to directory zhfl
+Adding 620736 to directory zhfl/jvnlhq
+Adding 620736 to directory zhfl/jvnlhq/njmdrb
+dir - /zhfl/jvnlhq/njmdrb/mllvdccz/ftmrszgl
+$ ls
      267439 bdrn.gfb
      257447 npcrg.gjn
-[zhfl jvnlhq njmdrb mllvdccz]
-[zhfl jvnlhq njmdrb mllvdccz tgvchzn]
+$ cd ..
+Adding 524886 to directory 
+Adding 524886 to directory zhfl
+Adding 524886 to directory zhfl/jvnlhq
+Adding 524886 to directory zhfl/jvnlhq/njmdrb
+Adding 524886 to directory zhfl/jvnlhq/njmdrb/mllvdccz
+dir - /zhfl/jvnlhq/njmdrb/mllvdccz
+$ cd tgvchzn
+dir - /zhfl/jvnlhq/njmdrb/mllvdccz/tgvchzn
+$ ls
      227775 lqbftlg.scr
-[zhfl jvnlhq njmdrb mllvdccz]
-[zhfl jvnlhq njmdrb]
-[zhfl jvnlhq]
-[zhfl jvnlhq sbnhc]
+$ cd ..
+Adding 227775 to directory 
+Adding 227775 to directory zhfl
+Adding 227775 to directory zhfl/jvnlhq
+Adding 227775 to directory zhfl/jvnlhq/njmdrb
+Adding 227775 to directory zhfl/jvnlhq/njmdrb/mllvdccz
+dir - /zhfl/jvnlhq/njmdrb/mllvdccz
+$ cd ..
+dir - /zhfl/jvnlhq/njmdrb
+$ cd ..
+dir - /zhfl/jvnlhq
+$ cd sbnhc
+dir - /zhfl/jvnlhq/sbnhc
+$ ls
      245520 tjp.pml
-[zhfl jvnlhq]
-[zhfl jvnlhq sdrrzp]
+$ cd ..
+Adding 245520 to directory 
+Adding 245520 to directory zhfl
+Adding 245520 to directory zhfl/jvnlhq
+dir - /zhfl/jvnlhq
+$ cd sdrrzp
+dir - /zhfl/jvnlhq/sdrrzp
+$ ls
      dir dcqq
      7894 gstzs
      dir rnjcrjj
      dir sbnhc
-[zhfl jvnlhq sdrrzp dcqq]
+$ cd dcqq
+Adding 7894 to directory 
+Adding 7894 to directory zhfl
+Adding 7894 to directory zhfl/jvnlhq
+dir - /zhfl/jvnlhq/sdrrzp/dcqq
+$ ls
      340987 sjb.nss
-[zhfl jvnlhq sdrrzp]
-[zhfl jvnlhq sdrrzp rnjcrjj]
+$ cd ..
+Adding 340987 to directory 
+Adding 340987 to directory zhfl
+Adding 340987 to directory zhfl/jvnlhq
+Adding 340987 to directory zhfl/jvnlhq/sdrrzp
+dir - /zhfl/jvnlhq/sdrrzp
+$ cd rnjcrjj
+dir - /zhfl/jvnlhq/sdrrzp/rnjcrjj
+$ ls
      67782 rbq.hpj
-[zhfl jvnlhq sdrrzp]
-[zhfl jvnlhq sdrrzp sbnhc]
+$ cd ..
+Adding 67782 to directory 
+Adding 67782 to directory zhfl
+Adding 67782 to directory zhfl/jvnlhq
+Adding 67782 to directory zhfl/jvnlhq/sdrrzp
+dir - /zhfl/jvnlhq/sdrrzp
+$ cd sbnhc
+dir - /zhfl/jvnlhq/sdrrzp/sbnhc
+$ ls
      156705 zwr.rtg
-[zhfl jvnlhq sdrrzp]
-[zhfl jvnlhq]
-[zhfl]
-[zhfl vnlmlq]
+$ cd ..
+Adding 156705 to directory 
+Adding 156705 to directory zhfl
+Adding 156705 to directory zhfl/jvnlhq
+Adding 156705 to directory zhfl/jvnlhq/sdrrzp
+dir - /zhfl/jvnlhq/sdrrzp
+$ cd ..
+dir - /zhfl/jvnlhq
+$ cd ..
+dir - /zhfl
+$ cd vnlmlq
+dir - /zhfl/vnlmlq
+$ ls
      dir dwvphbm
      dir jgc
      dir lbh
@@ -652,104 +1590,273 @@
      213882 sbnhc.dzl
      dir vnlmlq
      2798 vwwbhsnb.dms
-[zhfl vnlmlq dwvphbm]
+$ cd dwvphbm
+Adding 216680 to directory 
+Adding 216680 to directory zhfl
+dir - /zhfl/vnlmlq/dwvphbm
+$ ls
      257972 zccsn.bdr
-[zhfl vnlmlq]
-[zhfl vnlmlq jgc]
+$ cd ..
+Adding 257972 to directory 
+Adding 257972 to directory zhfl
+Adding 257972 to directory zhfl/vnlmlq
+dir - /zhfl/vnlmlq
+$ cd jgc
+dir - /zhfl/vnlmlq/jgc
+$ ls
      85911 cqhdvmzp.npw
      dir fnvjv
      49760 grsw
      dir ntz
      249818 rgzqq.tlr
-[zhfl vnlmlq jgc fnvjv]
+$ cd fnvjv
+Adding 385489 to directory 
+Adding 385489 to directory zhfl
+Adding 385489 to directory zhfl/vnlmlq
+dir - /zhfl/vnlmlq/jgc/fnvjv
+$ ls
      288935 dcqq.bsq
      dir nwlbbwtq
      264238 tcwwzs.zwg
-[zhfl vnlmlq jgc fnvjv nwlbbwtq]
+$ cd nwlbbwtq
+Adding 553173 to directory 
+Adding 553173 to directory zhfl
+Adding 553173 to directory zhfl/vnlmlq
+Adding 553173 to directory zhfl/vnlmlq/jgc
+dir - /zhfl/vnlmlq/jgc/fnvjv/nwlbbwtq
+$ ls
      dir qcm
      318151 sbnhc.lwr
      322077 stb.cqj
-[zhfl vnlmlq jgc fnvjv nwlbbwtq qcm]
+$ cd qcm
+Adding 640228 to directory 
+Adding 640228 to directory zhfl
+Adding 640228 to directory zhfl/vnlmlq
+Adding 640228 to directory zhfl/vnlmlq/jgc
+Adding 640228 to directory zhfl/vnlmlq/jgc/fnvjv
+dir - /zhfl/vnlmlq/jgc/fnvjv/nwlbbwtq/qcm
+$ ls
      147721 crrdn
      dir gctnt
      59476 rbq.hpj
      dir sbnhc
-[zhfl vnlmlq jgc fnvjv nwlbbwtq qcm gctnt]
+$ cd gctnt
+Adding 207197 to directory 
+Adding 207197 to directory zhfl
+Adding 207197 to directory zhfl/vnlmlq
+Adding 207197 to directory zhfl/vnlmlq/jgc
+Adding 207197 to directory zhfl/vnlmlq/jgc/fnvjv
+Adding 207197 to directory zhfl/vnlmlq/jgc/fnvjv/nwlbbwtq
+dir - /zhfl/vnlmlq/jgc/fnvjv/nwlbbwtq/qcm/gctnt
+$ ls
      328909 dwvphbm
      82536 rjnz
-[zhfl vnlmlq jgc fnvjv nwlbbwtq qcm]
-[zhfl vnlmlq jgc fnvjv nwlbbwtq qcm sbnhc]
+$ cd ..
+Adding 411445 to directory 
+Adding 411445 to directory zhfl
+Adding 411445 to directory zhfl/vnlmlq
+Adding 411445 to directory zhfl/vnlmlq/jgc
+Adding 411445 to directory zhfl/vnlmlq/jgc/fnvjv
+Adding 411445 to directory zhfl/vnlmlq/jgc/fnvjv/nwlbbwtq
+Adding 411445 to directory zhfl/vnlmlq/jgc/fnvjv/nwlbbwtq/qcm
+dir - /zhfl/vnlmlq/jgc/fnvjv/nwlbbwtq/qcm
+$ cd sbnhc
+dir - /zhfl/vnlmlq/jgc/fnvjv/nwlbbwtq/qcm/sbnhc
+$ ls
      35956 nfqs.crt
      89464 qvhvlcl.nzq
      dir vvn
-[zhfl vnlmlq jgc fnvjv nwlbbwtq qcm sbnhc vvn]
+$ cd vvn
+Adding 125420 to directory 
+Adding 125420 to directory zhfl
+Adding 125420 to directory zhfl/vnlmlq
+Adding 125420 to directory zhfl/vnlmlq/jgc
+Adding 125420 to directory zhfl/vnlmlq/jgc/fnvjv
+Adding 125420 to directory zhfl/vnlmlq/jgc/fnvjv/nwlbbwtq
+Adding 125420 to directory zhfl/vnlmlq/jgc/fnvjv/nwlbbwtq/qcm
+dir - /zhfl/vnlmlq/jgc/fnvjv/nwlbbwtq/qcm/sbnhc/vvn
+$ ls
      119247 fztlb.qch
      79030 vnlmlq
-[zhfl vnlmlq jgc fnvjv nwlbbwtq qcm sbnhc]
-[zhfl vnlmlq jgc fnvjv nwlbbwtq qcm]
-[zhfl vnlmlq jgc fnvjv nwlbbwtq]
-[zhfl vnlmlq jgc fnvjv]
-[zhfl vnlmlq jgc]
-[zhfl vnlmlq jgc ntz]
+$ cd ..
+Adding 198277 to directory 
+Adding 198277 to directory zhfl
+Adding 198277 to directory zhfl/vnlmlq
+Adding 198277 to directory zhfl/vnlmlq/jgc
+Adding 198277 to directory zhfl/vnlmlq/jgc/fnvjv
+Adding 198277 to directory zhfl/vnlmlq/jgc/fnvjv/nwlbbwtq
+Adding 198277 to directory zhfl/vnlmlq/jgc/fnvjv/nwlbbwtq/qcm
+Adding 198277 to directory zhfl/vnlmlq/jgc/fnvjv/nwlbbwtq/qcm/sbnhc
+dir - /zhfl/vnlmlq/jgc/fnvjv/nwlbbwtq/qcm/sbnhc
+$ cd ..
+dir - /zhfl/vnlmlq/jgc/fnvjv/nwlbbwtq/qcm
+$ cd ..
+dir - /zhfl/vnlmlq/jgc/fnvjv/nwlbbwtq
+$ cd ..
+dir - /zhfl/vnlmlq/jgc/fnvjv
+$ cd ..
+dir - /zhfl/vnlmlq/jgc
+$ cd ntz
+dir - /zhfl/vnlmlq/jgc/ntz
+$ ls
      234879 mfhzl
-[zhfl vnlmlq jgc]
-[zhfl vnlmlq]
-[zhfl vnlmlq lbh]
+$ cd ..
+Adding 234879 to directory 
+Adding 234879 to directory zhfl
+Adding 234879 to directory zhfl/vnlmlq
+Adding 234879 to directory zhfl/vnlmlq/jgc
+dir - /zhfl/vnlmlq/jgc
+$ cd ..
+dir - /zhfl/vnlmlq
+$ cd lbh
+dir - /zhfl/vnlmlq/lbh
+$ ls
      dir dwvphbm
      24310 jgsp.ggs
      dir lft
-[zhfl vnlmlq lbh dwvphbm]
+$ cd dwvphbm
+Adding 24310 to directory 
+Adding 24310 to directory zhfl
+Adding 24310 to directory zhfl/vnlmlq
+dir - /zhfl/vnlmlq/lbh/dwvphbm
+$ ls
      295434 rbq.hpj
-[zhfl vnlmlq lbh]
-[zhfl vnlmlq lbh lft]
+$ cd ..
+Adding 295434 to directory 
+Adding 295434 to directory zhfl
+Adding 295434 to directory zhfl/vnlmlq
+Adding 295434 to directory zhfl/vnlmlq/lbh
+dir - /zhfl/vnlmlq/lbh
+$ cd lft
+dir - /zhfl/vnlmlq/lbh/lft
+$ ls
      dir dcqq
      dir dwvphbm
      123657 mfhzl.nhq
-[zhfl vnlmlq lbh lft dcqq]
+$ cd dcqq
+Adding 123657 to directory 
+Adding 123657 to directory zhfl
+Adding 123657 to directory zhfl/vnlmlq
+Adding 123657 to directory zhfl/vnlmlq/lbh
+dir - /zhfl/vnlmlq/lbh/lft/dcqq
+$ ls
      dir tgp
-[zhfl vnlmlq lbh lft dcqq tgp]
+$ cd tgp
+dir - /zhfl/vnlmlq/lbh/lft/dcqq/tgp
+$ ls
      271647 gmmq.tmp
-[zhfl vnlmlq lbh lft dcqq]
-[zhfl vnlmlq lbh lft]
-[zhfl vnlmlq lbh lft dwvphbm]
+$ cd ..
+Adding 271647 to directory 
+Adding 271647 to directory zhfl
+Adding 271647 to directory zhfl/vnlmlq
+Adding 271647 to directory zhfl/vnlmlq/lbh
+Adding 271647 to directory zhfl/vnlmlq/lbh/lft
+Adding 271647 to directory zhfl/vnlmlq/lbh/lft/dcqq
+dir - /zhfl/vnlmlq/lbh/lft/dcqq
+$ cd ..
+dir - /zhfl/vnlmlq/lbh/lft
+$ cd dwvphbm
+dir - /zhfl/vnlmlq/lbh/lft/dwvphbm
+$ ls
      dir pftcdtd
      108321 qtqhqwnt
-[zhfl vnlmlq lbh lft dwvphbm pftcdtd]
+$ cd pftcdtd
+Adding 108321 to directory 
+Adding 108321 to directory zhfl
+Adding 108321 to directory zhfl/vnlmlq
+Adding 108321 to directory zhfl/vnlmlq/lbh
+Adding 108321 to directory zhfl/vnlmlq/lbh/lft
+dir - /zhfl/vnlmlq/lbh/lft/dwvphbm/pftcdtd
+$ ls
      28073 hwqzcr.zcp
-[zhfl vnlmlq lbh lft dwvphbm]
-[zhfl vnlmlq lbh lft]
-[zhfl vnlmlq lbh]
-[zhfl vnlmlq]
-[zhfl vnlmlq lrwt]
+$ cd ..
+Adding 28073 to directory 
+Adding 28073 to directory zhfl
+Adding 28073 to directory zhfl/vnlmlq
+Adding 28073 to directory zhfl/vnlmlq/lbh
+Adding 28073 to directory zhfl/vnlmlq/lbh/lft
+Adding 28073 to directory zhfl/vnlmlq/lbh/lft/dwvphbm
+dir - /zhfl/vnlmlq/lbh/lft/dwvphbm
+$ cd ..
+dir - /zhfl/vnlmlq/lbh/lft
+$ cd ..
+dir - /zhfl/vnlmlq/lbh
+$ cd ..
+dir - /zhfl/vnlmlq
+$ cd lrwt
+dir - /zhfl/vnlmlq/lrwt
+$ ls
      38953 hzhzfw.tpv
      59885 vnlmlq
-[zhfl vnlmlq]
-[zhfl vnlmlq rhszw]
+$ cd ..
+Adding 98838 to directory 
+Adding 98838 to directory zhfl
+Adding 98838 to directory zhfl/vnlmlq
+dir - /zhfl/vnlmlq
+$ cd rhszw
+dir - /zhfl/vnlmlq/rhszw
+$ ls
      dir hsfbh
      dir mmflqvsd
      20071 rhdbms
      162563 rpjjld
      dir vnlmlq
-[zhfl vnlmlq rhszw hsfbh]
+$ cd hsfbh
+Adding 182634 to directory 
+Adding 182634 to directory zhfl
+Adding 182634 to directory zhfl/vnlmlq
+dir - /zhfl/vnlmlq/rhszw/hsfbh
+$ ls
      255050 lglw.jvw
      99814 pzvw
      28443 sbct.hng
      168934 sbnhc.fnt
      dir wnwztl
-[zhfl vnlmlq rhszw hsfbh wnwztl]
+$ cd wnwztl
+Adding 552241 to directory 
+Adding 552241 to directory zhfl
+Adding 552241 to directory zhfl/vnlmlq
+Adding 552241 to directory zhfl/vnlmlq/rhszw
+dir - /zhfl/vnlmlq/rhszw/hsfbh/wnwztl
+$ ls
      dir brwhjj
      215806 dcqq
      214967 mqhv.wwq
      82998 vcm.mhc
-[zhfl vnlmlq rhszw hsfbh wnwztl brwhjj]
+$ cd brwhjj
+Adding 513771 to directory 
+Adding 513771 to directory zhfl
+Adding 513771 to directory zhfl/vnlmlq
+Adding 513771 to directory zhfl/vnlmlq/rhszw
+Adding 513771 to directory zhfl/vnlmlq/rhszw/hsfbh
+dir - /zhfl/vnlmlq/rhszw/hsfbh/wnwztl/brwhjj
+$ ls
      171935 rbq.hpj
-[zhfl vnlmlq rhszw hsfbh wnwztl]
-[zhfl vnlmlq rhszw hsfbh]
-[zhfl vnlmlq rhszw]
-[zhfl vnlmlq rhszw mmflqvsd]
+$ cd ..
+Adding 171935 to directory 
+Adding 171935 to directory zhfl
+Adding 171935 to directory zhfl/vnlmlq
+Adding 171935 to directory zhfl/vnlmlq/rhszw
+Adding 171935 to directory zhfl/vnlmlq/rhszw/hsfbh
+Adding 171935 to directory zhfl/vnlmlq/rhszw/hsfbh/wnwztl
+dir - /zhfl/vnlmlq/rhszw/hsfbh/wnwztl
+$ cd ..
+dir - /zhfl/vnlmlq/rhszw/hsfbh
+$ cd ..
+dir - /zhfl/vnlmlq/rhszw
+$ cd mmflqvsd
+dir - /zhfl/vnlmlq/rhszw/mmflqvsd
+$ ls
      109141 dcqq.mdc
-[zhfl vnlmlq rhszw]
-[zhfl vnlmlq rhszw vnlmlq]
+$ cd ..
+Adding 109141 to directory 
+Adding 109141 to directory zhfl
+Adding 109141 to directory zhfl/vnlmlq
+Adding 109141 to directory zhfl/vnlmlq/rhszw
+dir - /zhfl/vnlmlq/rhszw
+$ cd vnlmlq
+dir - /zhfl/vnlmlq/rhszw/vnlmlq
+$ ls
      dir blggqt
      117656 dcqq.vlg
      dir fpw
@@ -758,37 +1865,112 @@
      5068 mnfdf
      dir mtg
      dir vnlmlq
-[zhfl vnlmlq rhszw vnlmlq blggqt]
+$ cd blggqt
+Adding 318603 to directory 
+Adding 318603 to directory zhfl
+Adding 318603 to directory zhfl/vnlmlq
+Adding 318603 to directory zhfl/vnlmlq/rhszw
+dir - /zhfl/vnlmlq/rhszw/vnlmlq/blggqt
+$ ls
      195700 ntv.zjn
-[zhfl vnlmlq rhszw vnlmlq]
-[zhfl vnlmlq rhszw vnlmlq fpw]
+$ cd ..
+Adding 195700 to directory 
+Adding 195700 to directory zhfl
+Adding 195700 to directory zhfl/vnlmlq
+Adding 195700 to directory zhfl/vnlmlq/rhszw
+Adding 195700 to directory zhfl/vnlmlq/rhszw/vnlmlq
+dir - /zhfl/vnlmlq/rhszw/vnlmlq
+$ cd fpw
+dir - /zhfl/vnlmlq/rhszw/vnlmlq/fpw
+$ ls
      143105 sct
-[zhfl vnlmlq rhszw vnlmlq]
-[zhfl vnlmlq rhszw vnlmlq mfhzl]
+$ cd ..
+Adding 143105 to directory 
+Adding 143105 to directory zhfl
+Adding 143105 to directory zhfl/vnlmlq
+Adding 143105 to directory zhfl/vnlmlq/rhszw
+Adding 143105 to directory zhfl/vnlmlq/rhszw/vnlmlq
+dir - /zhfl/vnlmlq/rhszw/vnlmlq
+$ cd mfhzl
+dir - /zhfl/vnlmlq/rhszw/vnlmlq/mfhzl
+$ ls
      dir cpcczt
      47767 nzzcn.qhp
      dir zdv
-[zhfl vnlmlq rhszw vnlmlq mfhzl cpcczt]
+$ cd cpcczt
+Adding 47767 to directory 
+Adding 47767 to directory zhfl
+Adding 47767 to directory zhfl/vnlmlq
+Adding 47767 to directory zhfl/vnlmlq/rhszw
+Adding 47767 to directory zhfl/vnlmlq/rhszw/vnlmlq
+dir - /zhfl/vnlmlq/rhszw/vnlmlq/mfhzl/cpcczt
+$ ls
      209755 vnlmlq.lbw
-[zhfl vnlmlq rhszw vnlmlq mfhzl]
-[zhfl vnlmlq rhszw vnlmlq mfhzl zdv]
+$ cd ..
+Adding 209755 to directory 
+Adding 209755 to directory zhfl
+Adding 209755 to directory zhfl/vnlmlq
+Adding 209755 to directory zhfl/vnlmlq/rhszw
+Adding 209755 to directory zhfl/vnlmlq/rhszw/vnlmlq
+Adding 209755 to directory zhfl/vnlmlq/rhszw/vnlmlq/mfhzl
+dir - /zhfl/vnlmlq/rhszw/vnlmlq/mfhzl
+$ cd zdv
+dir - /zhfl/vnlmlq/rhszw/vnlmlq/mfhzl/zdv
+$ ls
      335546 sbnhc.ccg
-[zhfl vnlmlq rhszw vnlmlq mfhzl]
-[zhfl vnlmlq rhszw vnlmlq]
-[zhfl vnlmlq rhszw vnlmlq mtg]
+$ cd ..
+Adding 335546 to directory 
+Adding 335546 to directory zhfl
+Adding 335546 to directory zhfl/vnlmlq
+Adding 335546 to directory zhfl/vnlmlq/rhszw
+Adding 335546 to directory zhfl/vnlmlq/rhszw/vnlmlq
+Adding 335546 to directory zhfl/vnlmlq/rhszw/vnlmlq/mfhzl
+dir - /zhfl/vnlmlq/rhszw/vnlmlq/mfhzl
+$ cd ..
+dir - /zhfl/vnlmlq/rhszw/vnlmlq
+$ cd mtg
+dir - /zhfl/vnlmlq/rhszw/vnlmlq/mtg
+$ ls
      244632 dcqq.frr
      240873 tpvqthc.ljw
      dir zdtnqtcw
-[zhfl vnlmlq rhszw vnlmlq mtg zdtnqtcw]
+$ cd zdtnqtcw
+Adding 485505 to directory 
+Adding 485505 to directory zhfl
+Adding 485505 to directory zhfl/vnlmlq
+Adding 485505 to directory zhfl/vnlmlq/rhszw
+Adding 485505 to directory zhfl/vnlmlq/rhszw/vnlmlq
+dir - /zhfl/vnlmlq/rhszw/vnlmlq/mtg/zdtnqtcw
+$ ls
      80980 nfqs.crt
-[zhfl vnlmlq rhszw vnlmlq mtg]
-[zhfl vnlmlq rhszw vnlmlq]
-[zhfl vnlmlq rhszw vnlmlq vnlmlq]
+$ cd ..
+Adding 80980 to directory 
+Adding 80980 to directory zhfl
+Adding 80980 to directory zhfl/vnlmlq
+Adding 80980 to directory zhfl/vnlmlq/rhszw
+Adding 80980 to directory zhfl/vnlmlq/rhszw/vnlmlq
+Adding 80980 to directory zhfl/vnlmlq/rhszw/vnlmlq/mtg
+dir - /zhfl/vnlmlq/rhszw/vnlmlq/mtg
+$ cd ..
+dir - /zhfl/vnlmlq/rhszw/vnlmlq
+$ cd vnlmlq
+dir - /zhfl/vnlmlq/rhszw/vnlmlq/vnlmlq
+$ ls
      153953 dwvphbm
-[zhfl vnlmlq rhszw vnlmlq]
-[zhfl vnlmlq rhszw]
-[zhfl vnlmlq]
-[zhfl vnlmlq vnlmlq]
+$ cd ..
+Adding 153953 to directory 
+Adding 153953 to directory zhfl
+Adding 153953 to directory zhfl/vnlmlq
+Adding 153953 to directory zhfl/vnlmlq/rhszw
+Adding 153953 to directory zhfl/vnlmlq/rhszw/vnlmlq
+dir - /zhfl/vnlmlq/rhszw/vnlmlq
+$ cd ..
+dir - /zhfl/vnlmlq/rhszw
+$ cd ..
+dir - /zhfl/vnlmlq
+$ cd vnlmlq
+dir - /zhfl/vnlmlq/vnlmlq
+$ ls
      dir dcqq
      dir dwvphbm
      155333 mmhjscr.mrh
@@ -797,18 +1979,37 @@
      dir rdvq
      226720 zgmtqvws
      160920 zgnft
-[zhfl vnlmlq vnlmlq dcqq]
+$ cd dcqq
+Adding 836693 to directory 
+Adding 836693 to directory zhfl
+Adding 836693 to directory zhfl/vnlmlq
+dir - /zhfl/vnlmlq/vnlmlq/dcqq
+$ ls
      142227 cqhdvmzp.npw
      199798 twqppvs
-[zhfl vnlmlq vnlmlq]
-[zhfl vnlmlq vnlmlq dwvphbm]
+$ cd ..
+Adding 342025 to directory 
+Adding 342025 to directory zhfl
+Adding 342025 to directory zhfl/vnlmlq
+Adding 342025 to directory zhfl/vnlmlq/vnlmlq
+dir - /zhfl/vnlmlq/vnlmlq
+$ cd dwvphbm
+dir - /zhfl/vnlmlq/vnlmlq/dwvphbm
+$ ls
      58807 cdbdnrqh.fgq
      224321 hbnlqs
      340073 sbnhc
      337932 sct
      2613 vdc.nwz
-[zhfl vnlmlq vnlmlq]
-[zhfl vnlmlq vnlmlq qnv]
+$ cd ..
+Adding 963746 to directory 
+Adding 963746 to directory zhfl
+Adding 963746 to directory zhfl/vnlmlq
+Adding 963746 to directory zhfl/vnlmlq/vnlmlq
+dir - /zhfl/vnlmlq/vnlmlq
+$ cd qnv
+dir - /zhfl/vnlmlq/vnlmlq/qnv
+$ ls
      244311 cqhdvmzp.npw
      273687 jhqt.glz
      dir mnrh
@@ -816,10 +2017,24 @@
      49861 pwsgmlq.hcw
      dir rdrs
      126195 vnlmlq.frr
-[zhfl vnlmlq vnlmlq qnv mnrh]
+$ cd mnrh
+Adding 934098 to directory 
+Adding 934098 to directory zhfl
+Adding 934098 to directory zhfl/vnlmlq
+Adding 934098 to directory zhfl/vnlmlq/vnlmlq
+dir - /zhfl/vnlmlq/vnlmlq/qnv/mnrh
+$ ls
      276125 hbnlqs
-[zhfl vnlmlq vnlmlq qnv]
-[zhfl vnlmlq vnlmlq qnv rdrs]
+$ cd ..
+Adding 276125 to directory 
+Adding 276125 to directory zhfl
+Adding 276125 to directory zhfl/vnlmlq
+Adding 276125 to directory zhfl/vnlmlq/vnlmlq
+Adding 276125 to directory zhfl/vnlmlq/vnlmlq/qnv
+dir - /zhfl/vnlmlq/vnlmlq/qnv
+$ cd rdrs
+dir - /zhfl/vnlmlq/vnlmlq/qnv/rdrs
+$ ls
      dir dqgw
      213018 dwvphbm
      13785 hbnlqs
@@ -827,196 +2042,174 @@
      116081 nfqs.crt
      154367 rbq.hpj
      77634 sct
-[zhfl vnlmlq vnlmlq qnv rdrs dqgw]
+$ cd dqgw
+Adding 574885 to directory 
+Adding 574885 to directory zhfl
+Adding 574885 to directory zhfl/vnlmlq
+Adding 574885 to directory zhfl/vnlmlq/vnlmlq
+Adding 574885 to directory zhfl/vnlmlq/vnlmlq/qnv
+dir - /zhfl/vnlmlq/vnlmlq/qnv/rdrs/dqgw
+$ ls
      dir rpcfdr
-[zhfl vnlmlq vnlmlq qnv rdrs dqgw rpcfdr]
+$ cd rpcfdr
+dir - /zhfl/vnlmlq/vnlmlq/qnv/rdrs/dqgw/rpcfdr
+$ ls
      dir swvlhbg
-[zhfl vnlmlq vnlmlq qnv rdrs dqgw rpcfdr swvlhbg]
+$ cd swvlhbg
+dir - /zhfl/vnlmlq/vnlmlq/qnv/rdrs/dqgw/rpcfdr/swvlhbg
+$ ls
      309244 sct
-[zhfl vnlmlq vnlmlq qnv rdrs dqgw rpcfdr]
-[zhfl vnlmlq vnlmlq qnv rdrs dqgw]
-[zhfl vnlmlq vnlmlq qnv rdrs]
-[zhfl vnlmlq vnlmlq qnv rdrs lbpjczw]
+$ cd ..
+Adding 309244 to directory 
+Adding 309244 to directory zhfl
+Adding 309244 to directory zhfl/vnlmlq
+Adding 309244 to directory zhfl/vnlmlq/vnlmlq
+Adding 309244 to directory zhfl/vnlmlq/vnlmlq/qnv
+Adding 309244 to directory zhfl/vnlmlq/vnlmlq/qnv/rdrs
+Adding 309244 to directory zhfl/vnlmlq/vnlmlq/qnv/rdrs/dqgw
+Adding 309244 to directory zhfl/vnlmlq/vnlmlq/qnv/rdrs/dqgw/rpcfdr
+dir - /zhfl/vnlmlq/vnlmlq/qnv/rdrs/dqgw/rpcfdr
+$ cd ..
+dir - /zhfl/vnlmlq/vnlmlq/qnv/rdrs/dqgw
+$ cd ..
+dir - /zhfl/vnlmlq/vnlmlq/qnv/rdrs
+$ cd lbpjczw
+dir - /zhfl/vnlmlq/vnlmlq/qnv/rdrs/lbpjczw
+$ ls
      69436 rbq.hpj
-[zhfl vnlmlq vnlmlq qnv rdrs]
-[zhfl vnlmlq vnlmlq qnv]
-[zhfl vnlmlq vnlmlq]
-[zhfl vnlmlq vnlmlq rdvq]
+$ cd ..
+Adding 69436 to directory 
+Adding 69436 to directory zhfl
+Adding 69436 to directory zhfl/vnlmlq
+Adding 69436 to directory zhfl/vnlmlq/vnlmlq
+Adding 69436 to directory zhfl/vnlmlq/vnlmlq/qnv
+Adding 69436 to directory zhfl/vnlmlq/vnlmlq/qnv/rdrs
+dir - /zhfl/vnlmlq/vnlmlq/qnv/rdrs
+$ cd ..
+dir - /zhfl/vnlmlq/vnlmlq/qnv
+$ cd ..
+dir - /zhfl/vnlmlq/vnlmlq
+$ cd rdvq
+dir - /zhfl/vnlmlq/vnlmlq/rdvq
+$ ls
      128806 dcqq.qzr
      64132 dcqq.vgc
      dir hht
      165359 jzj.rqv
      dir sbnhc
-[zhfl vnlmlq vnlmlq rdvq hht]
+$ cd hht
+Adding 358297 to directory 
+Adding 358297 to directory zhfl
+Adding 358297 to directory zhfl/vnlmlq
+Adding 358297 to directory zhfl/vnlmlq/vnlmlq
+dir - /zhfl/vnlmlq/vnlmlq/rdvq/hht
+$ ls
      dir vnlmlq
-[zhfl vnlmlq vnlmlq rdvq hht vnlmlq]
+$ cd vnlmlq
+dir - /zhfl/vnlmlq/vnlmlq/rdvq/hht/vnlmlq
+$ ls
      49895 wct
-[zhfl vnlmlq vnlmlq rdvq hht]
-[zhfl vnlmlq vnlmlq rdvq]
-[zhfl vnlmlq vnlmlq rdvq sbnhc]
+$ cd ..
+Adding 49895 to directory 
+Adding 49895 to directory zhfl
+Adding 49895 to directory zhfl/vnlmlq
+Adding 49895 to directory zhfl/vnlmlq/vnlmlq
+Adding 49895 to directory zhfl/vnlmlq/vnlmlq/rdvq
+Adding 49895 to directory zhfl/vnlmlq/vnlmlq/rdvq/hht
+dir - /zhfl/vnlmlq/vnlmlq/rdvq/hht
+$ cd ..
+dir - /zhfl/vnlmlq/vnlmlq/rdvq
+$ cd sbnhc
+dir - /zhfl/vnlmlq/vnlmlq/rdvq/sbnhc
+$ ls
      265434 vnlmlq
-jsv/bwc/jwrhclh/wqjnwgpj/lbft 300535
-jsv/bwc/jwrhclh/wqjnwgpj/hfd 1623985
-zhfl/vnlmlq/vnlmlq/qnv/mnrh 1380625
-jsv/rhstw/zrdh/dcqq/jnncgzgm 998320
-zhfl/vnlmlq/vnlmlq 2510079
-zhfl/vnlmlq/vnlmlq/rdvq/hht/vnlmlq 299370
-zhfl/jvnlhq/njmdrb/gdvtg 1286600
-jsv/rhstw/tzgrs 71490
-jsv/bwc/jwrhclh/ftjcr/glfptjpb/gdphvds/dpdb 2398270
-jsv/bwc/jwrhclh/sbnhc/hwtmwp/zjmrr 1674618
-jsv/bwc/jwrhclh/ftjcr 1577984
-jsv/bwc/jwrhclh/vnlmlq/vfdqq/qzgwglhc 1655532
-jsv/bwc/jwrhclh/vnlmlq/vfdqq/zfdhthfn 3015774
-jsv/rhstw/rzqp/rwh 1140228
-gnpd/sbnhc/vmslnrmc 498957
-zhfl/jvnlhq/sbnhc 736560
-zhfl/vnlmlq/lbh/lft/dcqq/tgp 1629882
-zhfl/vnlmlq/vnlmlq/rdvq/sbnhc 1327170
-jsv/vnlmlq/gfsj/hddvr/mqmnzb 1709175
-jsv 260913
-jsv/bwc/dcqq 1005240
-jsv/bwc/gsst 1633497
-gnpd 312284
-nljtr/slztzqd 1161316
-jsv/dcqq 728852
-gnpd/sbnhc/vmslnrmc/lcqpws 2039448
-jsv/bwc/jwrhclh/vnlmlq 2299244
-jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/dwvphbm/vghvsmq/jqmgn 863928
-zhfl/vnlmlq/jgc/fnvjv 2212692
-jsv/bwc/jwrhclh/vnlmlq/qwbnvzv/mfhzl 996090
-zhfl/vnlmlq/rhszw/vnlmlq 1274412
-jsv/bwc/jwrhclh 532497
-gnpd/dwqbhgc/sbnhc 2194623
-zhfl/vnlmlq/lbh/dwvphbm 1181736
-zhfl/vnlmlq/dwvphbm 773916
-zhfl/jvnlhq 608910
-jsv/bwc/gdgh 235350
-gnpd/dwqbhgc 1976916
-nljtr/slztzqd/vnlmlq/mfhzl/dcqq 1440150
+gnpd/dcqq/mhpqqq 254735
+jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/mfhzl 155454
+nljtr/slztzqd 1814705
+zhfl/vnlmlq/jgc/fnvjv 1582567
+jsv/bwc/crbnzrtw/dmmpcrz 121861
+jsv/bwc/jwrhclh 10298099
+jsv/vnlmlq/gfsj 341835
+zhfl/vnlmlq/jgc 2370619
+zhfl/vnlmlq/jgc/fnvjv/nwlbbwtq/qcm/sbnhc 198277
+zhfl/vnlmlq/lbh/lft/dcqq 271647
+zhfl/jvnlhq 4768052
+zhfl/vnlmlq/vnlmlq/qnv/rdrs/dqgw/rpcfdr 309244
+jsv/bwc/crbnzrtw 1692602
+jsv/bwc/crbnzrtw/jdh 8977
+jsv/bwc/jwrhclh/ftjcr 2518042
+jsv/bwc/jwrhclh/vnlmlq/btqsh 1223852
+zhfl/vnlmlq/jgc/fnvjv/nwlbbwtq 942339
+zhfl/vnlmlq/lbh 827132
+jsv/bwc 14171682
+jsv/bwc/crbnzrtw/sbnhc/dbb 501905
+zhfl/vnlmlq/vnlmlq/qnv/rdrs 378680
+zhfl/vnlmlq/vnlmlq/rdvq/hht 49895
+jsv/bwc/jwrhclh/ftjcr/glfptjpb/fdnppcr 692136
+jsv/bwc/jwrhclh/vnlmlq 5117868
+jsv/bwc/jwrhclh/wqjnwgpj 780247
+jsv/rhstw/zrdh 953277
+zhfl 17468627
+zhfl/vnlmlq/rhszw/hsfbh/wnwztl 171935
+jsv/bwc/jwrhclh/ftjcr/mfhzl 100729
+jsv/bwc/jwrhclh/vnlmlq/vfdqq 1350136
+jsv/bwc/jwrhclh/wqjnwgpj/rtlw 341166
+zhfl/vnlmlq/lbh/lft 408041
+gnpd/sbnhc 691870
+mfhzl 445582
+zhfl/vnlmlq/lbh/lft/dwvphbm 28073
+zhfl/vnlmlq/rhszw 3318002
+zhfl/vnlmlq/rhszw/vnlmlq/mfhzl 545301
+zhfl/vnlmlq/vnlmlq/qnv/rdrs/dqgw 309244
+zhfl/jvnlhq/njmdrb/mfhzl 761956
+zhfl/vnlmlq 12179440
+ 47644568
+gnpd/sbnhc/vmslnrmc 509862
+jsv 18566352
+jsv/bwc/jwrhclh/ftjcr/glfptjpb 1539502
+jsv/bwc/jwrhclh/ftjcr/glfptjpb/fdnppcr/dwvphbm 581938
+nwzp 194850
+nljtr 2395363
+zhfl/jvnlhq/njmdrb 2645474
+gnpd 7202459
+gnpd/dnscfz 641691
+gnpd/dwqbhgc 1033784
+jsv/bwc/crbnzrtw/wmjgmd 250186
+jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/mfhzl/dcqq/vjhl 155454
+jsv/vnlmlq 341835
+zhfl/jvnlhq/sdrrzp 565474
+zhfl/vnlmlq/vnlmlq/qnv 1229690
+gnpd/dcqq/bfdng 461093
+jsv/bwc/jwrhclh/sbnhc 279103
+jsv/rhstw/zrdh/dcqq 199664
+nljtr/slztzqd/vnlmlq/mfhzl 793820
+nwzp/vnlmlq 87553
+zhfl/vnlmlq/rhszw/vnlmlq/mtg 80980
+gnpd/dcqq 1238406
+jsv/bwc/jwrhclh/sbnhc/hwtmwp 279103
+jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/mfhzl/dcqq 155454
+nljtr/slztzqd/vnlmlq 1476624
+sbnhc 21955
+zhfl/vnlmlq/rhszw/hsfbh 685706
+gnpd/pbgrdvmc 61451
+jsv/bwc/crbnzrtw/sbnhc/dbb/rmlm 197220
+jsv/bwc/jwrhclh/vnlmlq/clhclcr 256988
+jsv/bwc/jwrhclh/vnlmlq/qwbnvzv 655038
+zhfl/vnlmlq/vnlmlq/rdvq 49895
+gnpd/dwqbhgc/vjcl 302243
+jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/dwvphbm 228201
+jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/dwvphbm/vghvsmq 95992
+jsv/vnlmlq/gfsj/hddvr 341835
+zhfl/jvnlhq/njmdrb/mllvdccz 752661
+zhfl/vnlmlq/vnlmlq 3877751
+gnpd/smfhldss 134050
+jsv/bwc/jwrhclh/ftjcr/glfptjpb/gdphvds 342610
+jsv/rhstw 3365188
+jsv/rhstw/rzqp 285057
+zhfl/vnlmlq/rhszw/vnlmlq 1652311
 / 0
-jsv/bwc/nbwfdvsv 321819
-zhfl/vnlmlq/rhszw/hsfbh/wnwztl 2568855
-gnpd/pbgrdvmc/jlcqmq 74628
-jsv/bwc/jwrhclh/ftjcr/glfptjpb/gchhnd 3028536
-jsv/bwc/jwrhclh/vnlmlq/qwbnvzv/mzhwwrtp 2122974
-gnpd/pbgrdvmc 2394222
-jsv/rhstw/zrdh/vpnzs 1017836
-jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg 3979386
-zhfl/vnlmlq/rhszw/vnlmlq/mtg 2427525
-jsv/rhstw/clh 636459
-jsv/bwc/crbnzrtw/sbnhc/dbb 2700650
-jsv/bwc/jwrhclh/vnlmlq/clhclcr 1340385
-jsv/bwc/crbnzrtw/sbnhc/dbb/rmlm/wfr 1380540
-zhfl/jvnlhq/dbn 880203
-zhfl/vnlmlq/rhszw/vnlmlq/mtg/zdtnqtcw 485880
-nljtr/slztzqd/vnlmlq/mfhzl/lgfb 1304470
-zhfl/jvnlhq/sdrrzp 23682
-jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/mfhzl/dcqq/vjhl/nbhmzl 1554540
-nljtr/slztzqd/vnlmlq/mfhzl/rjbprpnl 1224480
-nljtr/slztzqd/vnlmlq 1014243
-zhfl/jvnlhq/njmdrb/mfhzl/vnlmlq 2456520
-zhfl/vnlmlq/lbh/lft 494628
-gnpd/dwqbhgc/vjcl/mfhzl 1208972
-zhfl/vnlmlq/rhszw 547902
-zhfl/vnlmlq/jgc/fnvjv/nwlbbwtq 3201140
-gnpd/dnscfz/vnlmlq 390153
-gnpd/smfhldss/wfbssqj 402150
-gnpd/dcqq/mpbpcv 440382
-gnpd/dcqq/mhpqqq/qqhz 592036
-zhfl/jvnlhq/njmdrb/mllvdccz/tgvchzn 1138875
-zhfl/jvnlhq/sdrrzp/sbnhc 626820
-jsv/bwc/jwrhclh/wqjnwgpj/vbf 270885
-zhfl/vnlmlq/jgc/fnvjv/nwlbbwtq/qcm/sbnhc 877940
-mfhzl/pccldwf 891164
-zhfl/jvnlhq/njmdrb/mfhzl/qpnncj 913460
-jsv/rhstw/ntjtzr 1740726
-zhfl/jvnlhq/njmdrb/mfhzl/dwvphbm 439800
-jsv/bwc/crbnzrtw/mpgdhg 192940
-jsv/bwc/qnwhfv 166899
-zhfl/jvnlhq/sdrrzp/rnjcrjj 271128
-gnpd/dcqq 358740
-zhfl/jvnlhq/sdrrzp/dcqq 1363948
-zhfl/vnlmlq/lbh/lft/dwvphbm/pftcdtd 168438
- 608334
-rfwwwgr 362615
-jsv/bwc/jwrhclh/vnlmlq/qwbnvzv/hpwpm 811164
-jsv/bwc/jwrhclh/sbnhc 2534128
-sbnhc 232949
-zhfl/vnlmlq/rhszw/vnlmlq/mfhzl 238835
-zhfl/jvnlhq/njmdrb/mllvdccz 2482944
-gnpd/dcqq/mhpqqq/vnlmlq 86880
-zhfl/vnlmlq/vnlmlq/qnv/rdrs/dqgw/rpcfdr/swvlhbg 2473952
-jsv/bwc/jwrhclh/vnlmlq/clhclcr/jwqwhq 1541928
-jsv/rhstw/grz 1038006
-jsv/bwc/crbnzrtw/jdh/dwvphbm 44885
-zhfl/vnlmlq/vnlmlq/qnv 3736392
-jsv/rhstw/zrdh/dcqq 1109816
-zhfl/vnlmlq/rhszw/vnlmlq/fpw 715525
-gnpd/sbnhc/sbq 47067
-gnpd/dcqq/bfdng/hjlch 959036
-zhfl/vnlmlq/rhszw/vnlmlq/mfhzl/zdv 2013276
-zhfl/vnlmlq/rhszw/mmflqvsd 436564
-gnpd/dnscfz/zjdhldlq 1035270
-sbnhc/dwvphbm 43910
-zhfl/jvnlhq/njmdrb/mllvdccz/ftmrszgl 2624430
-zhfl/vnlmlq/vnlmlq/rdvq 1433188
-jsv/bwc 646442
-zhfl/vnlmlq/lbh/lft/dwvphbm 541605
-zhfl/jvnlhq/njmdrb 3030867
-zhfl/vnlmlq/rhszw/hsfbh/wnwztl/brwhjj 1031610
-jsv/rhstw/zrdh 566733
-jsv/bwc/jwrhclh/wqjnwgpj/rtlw/ntpb 2046996
-zhfl/vnlmlq/lrwt 296514
-jsv/bwc/jwrhclh/vnlmlq/vbrc 1600145
-gnpd/dnscfz/wwf 499650
-jsv/bwc/jwrhclh/vnlmlq/btqsh/lgh 1061796
-jsv/bwc/jwrhclh/ftjcr/glfptjpb/fdnppcr/ngsgrgp 771386
-zhfl/vnlmlq/vnlmlq/dwvphbm 3854984
-jsv/bwc/jwrhclh/vnlmlq/btqsh 248600
-zhfl/vnlmlq/vnlmlq/dcqq 1368100
-gnpd/dcqq/bfdng/sbnhc 885336
-jsv/bwc/jwrhclh/ftjcr/glfptjpb 490000
-zhfl/vnlmlq/jgc 1156467
-zhfl 180619
-jsv/bwc/crbnzrtw/wmjgmd/psrshrws 1010260
-gnpd/dnscfz 1048672
-gnpd/pbgrdvmc/rqmhwhc 109725
-jsv/bwc/jwrhclh/ftjcr/glfptjpb/fdnppcr/dwvphbm/wrg 4655504
-nljtr/slztzqd/vnlmlq/mfhzl 1372500
-jsv/rhstw/rzqp 1969116
-jsv/rhstw/zrdh/dwvphbm 886800
-zhfl/vnlmlq/jgc/ntz 939516
-zhfl/vnlmlq/vnlmlq/qnv/rdrs 2874425
-jsv/bwc/crbnzrtw 2128152
-zhfl/vnlmlq/lbh 72930
-nljtr/slztzqd/vnlmlq/zpj 1358716
-jsv/bwc/jwrhclh/vnlmlq/qwbnvzv 3237550
-nwzp/vnlmlq/mdj 262659
-gnpd/lsrb 1023864
-gnpd/dcqq/mhpqqq/tcbgmw 340024
-jsv/bwc/jwrhclh/ftjcr/zwrmjlh 162915
-nwzp/mfhzl 214594
-zhfl/vnlmlq/rhszw/vnlmlq/blggqt 978500
-jsv/bwc/crbnzrtw/dmmpcrz/mfhzl 609305
-zhfl/vnlmlq/jgc/fnvjv/nwlbbwtq/qcm/gctnt 2880115
-zhfl/vnlmlq/rhszw/vnlmlq/mfhzl/cpcczt 1258530
-zhfl/vnlmlq/jgc/fnvjv/nwlbbwtq/qcm 1243182
-jsv/bwc/crbnzrtw/shfhmdw 885232
-jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg/dwvphbm/vghvsmq 1057672
-jsv/bwc/sbnhc 519489
-zhfl/jvnlhq/njmdrb/mfhzl 753884
-zhfl/vnlmlq 433360
-jsv/bwc/crbnzrtw/sbnhc/dbb/rbbgrtm 1828110
-zhfl/vnlmlq/rhszw/vnlmlq/vnlmlq 769765
-gnpd/dcqq/mhpqqq 1127352
-zhfl/vnlmlq/vnlmlq/qnv/rdrs/lbpjczw 416616
-jsv/bwc/crbnzrtw/wmjgmd/zrtpgbg 240670
-jsv/bwc/jwrhclh/vnlmlq/vfdqq 1732590
-jsv/rhstw/qrjgl 358032
-zhfl/vnlmlq/jgc/fnvjv/nwlbbwtq/qcm/sbnhc/vvn 1586216
-jsv/bwc/jwrhclh/vnlmlq/vfdqq/vnlmlq 3429510
-jsv/bwc/jwrhclh/ftjcr/rrrrgbqv 3736140
-jsv/bwc/jwrhclh/ftjcr/mfhzl/cptj 604374
-zhfl/vnlmlq/rhszw/hsfbh 2208964
-465472
+jsv/bwc/crbnzrtw/sbnhc 1042035
+jsv/bwc/jwrhclh/vnlmlq/btqsh/ljrjpg 383655
+zhfl/vnlmlq/jgc/fnvjv/nwlbbwtq/qcm 735142
+zhfl/vnlmlq/vnlmlq/rdvq/sbnhc 265434
+484771
